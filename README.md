@@ -1,93 +1,136 @@
-# ivanhancharyk_javata_2025
+# Java Labs Summary – Academic Year 2024/2025
 
+This repository contains my complete work for the Java programming labs at Wrocław University of Science and Technology.  
+Each lab focused on a distinct set of skills, technologies, and Java concepts – spanning from modularization and cryptography to REST APIs, reflection, JNI, XML processing, and JVM tuning.
 
+---
 
-## Getting started
+## 🔍 What I Learned
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Over the course I gained deep and practical experience in the following areas:
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+- **Java Modularity (JPMS)** and creating multi-module applications with `jlink`
+- **Data processing** using CSV, XML (JAXB, SAX, DOM), and JSON
+- **GUI development** with JavaFX, FXML, and custom visualizations
+- **REST API design** and development using **Spring Boot**
+- **Service Provider Interface (SPI)** for plugin-like extensibility
+- **JNI (Java Native Interface)** for performance-critical native code
+- **Java Reflection API** and custom class loaders
+- **Encryption with JCA/JCE**, keystores, and signed JARs
+- **Garbage Collection tuning**, memory management, and WeakReference use
+- **Internationalization (i18n)** and localization with resource bundles
+- **Scripting integration** via JavaScript (Nashorn, GraalVM)
 
-## Add your files
+These labs gave me not just Java-specific expertise, but broader software engineering insights:
+- Modular thinking and architecture design
+- Interoperability with native code
+- Designing extensible and testable systems
+- Debugging memory and performance bottlenecks
+- Secure development practices (cryptography, permissions)
+- Working with public APIs and real-world data
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+---
 
-```
-cd existing_repo
-git remote add origin https://git.e-science.pl/ivahan6820/ivanhancharyk_javata_2025.git
-git branch -M main
-git push -uf origin main
-```
+## 📁 Lab Summaries
 
-## Integrate with your tools
+### Lab01: Archiving Tool with MD5 Verification
+- Zip files/folders, generate & verify MD5 checksums.
+- GUI & CLI versions.
+- Uses Java Modules + `jlink` to build a self-contained runtime.
 
-- [ ] [Set up project integrations](https://git.e-science.pl/ivahan6820/ivanhancharyk_javata_2025/-/settings/integrations)
+### Lab02: Measurement Data Viewer
+- CSV file explorer with GUI (dual panel: navigation + preview).
+- Uses `WeakReference` for in-memory caching to avoid redundant reads.
+- JVM tuning and GC options tested (`-Xmx`, `-XX:+UseG1GC`, etc.).
 
-## Collaborate with your team
+### Lab03: Bibliophile Quiz with Public Book API
+- Fetch data from Wolne Lektury API.
+- Localized GUI (PL & EN) using `ResourceBundle` and `ChoiceFormat`.
+- Template-based dynamic question/answer generation and validation.
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+### Lab04: Task Execution with Reflection and Custom Class Loaders
+- Dynamically load/unload external JARs implementing `Processor`.
+- Task routing via GUI, with `getInfo()` metadata and sandboxing.
 
-## Test and Deploy
+### Lab05: Classification Metrics Viewer (SPI-based)
+- Load evaluation metrics (Cohen’s Kappa, etc.) via SPI in external JARs.
+- Editable confusion matrix GUI.
+- Modular & non-modular versions.
 
-Use the built-in continuous integration in GitLab.
+### Lab06: IPTV Subscription Manager (Standalone)
+- JavaFX + JPA (Hibernate) + H2 or SQLite.
+- Monthly billing, payment logging, escalation logic.
+- Clean service-repository architecture.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+### Lab07: IPTV Management API (Spring Boot)
+- Full REST API exposing the same logic from Lab06.
+- Tested via Swagger UI and Postman.
+- Follows REST best practices and supports JSON I/O.
 
-***
+### Lab08: JNI Sorting and Performance Tests
+- Implements 3 native sorting methods using JNI and C.
+- Java-native sorting for comparison.
+- Includes performance benchmarks and JIT behavior analysis.
 
-# Editing this README
+### Lab09: XML Processing Engine
+- Loads and renders XML via JAXB, SAX, and DOM.
+- Transforms XML via selectable XSLT files.
+- Source data from public open data portals.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+### Lab10: File Encryption Tool
+- Encrypt/decrypt files using JCA/JCE.
+- Keys stored in keystores, signed external JAR library.
+- JavaFX GUI with selectable algorithms and key files.
 
-## Suggestions for a good README
+### Lab11: Multi-Release JAR + Installer
+- Builds a multi-release JAR (MRJAR) using modular Java (JPMS).
+- Supports packaging with `jpackage` to create an installer.
+- Demonstrates version-specific class loading and runtime creation.
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+### Lab12: Scriptable Cellular Automata (Graal.js/Nashorn)
+- GUI for simulating various cellular automata.
+- Core logic dynamically loaded from external `.js` scripts.
+- Supports loading/unloading named scripts and visualizing output.
 
-## Name
-Choose a self-explaining name for your project.
+### Lab13: FXML-Only JavaFX App with JavaScript Logic
+- Entire application logic written in FXML with embedded JavaScript (`fx:script`).
+- Generates "inspirational quotes" from file-based templates.
+- Uses only a minimal Java launcher; everything else is scripted inside the view.
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Lab14: Ticket Queue System with Agents and JMX
+- Simulates real-world ticketing (e.g. at public service points).
+- Includes ticket machines, service desks, and information panels.
+- Dynamically reconfigurable via JMX agent (categories, priorities, assignments).
+- Supports notification and state updates between components.
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+---
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+## 🧠 Skills Acquired
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+| Area                     | Technologies / Concepts                           |
+|--------------------------|---------------------------------------------------|
+| Java Core                | JPMS, SPI, Reflection, WeakReference              |
+| GUI                      | JavaFX, FXML, CSS                                 |
+| Data Formats             | CSV, XML (JAXB, SAX, DOM), JSON                   |
+| Native Code              | JNI, C, JIT testing                               |
+| Networking & APIs        | Spring Boot, REST, Swagger, Wolne Lektury API    |
+| Cryptography             | JCA, JCE, keystores, signed JARs                 |
+| Build & Deployment       | Maven, jlink, jpackage, modular JARs             |
+| JVM Tuning               | -Xmx, -Xms, GC flags, GC behavior analysis       |
+| Internationalization     | ResourceBundles, ChoiceFormat                    |
+| Extensibility            | ServiceLoader (SPI), custom classloaders         |
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+---
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+## 📄 How to Run
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+Most labs are runnable via:
+```bash
+mvn clean install
+java -p mods -m labXX.module/labXX.Main
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+Labs using Spring Boot:
+mvn spring-boot:run
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+JNI (Lab08):
+Requires building native C library (gcc or cl) and configuring java.library.path.
