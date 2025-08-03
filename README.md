@@ -1,4 +1,4 @@
-# Java Labs Summary – Academic Year 2024/2025
+# Java Labs 
 
 This repository contains my complete work for the Java programming labs at Wrocław University of Science and Technology.  
 Each lab focused on a distinct set of skills, technologies, and Java concepts – spanning from modularization and cryptography to REST APIs, reflection, JNI, XML processing, and JVM tuning.
