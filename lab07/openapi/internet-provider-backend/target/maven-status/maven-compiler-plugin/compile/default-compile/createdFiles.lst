@@ -1,0 +1,11 @@
+org\openapitools\model\Client.class
+org\openapitools\api\ClientsApiController.class
+org\openapitools\api\ClientsApi.class
+org\openapitools\OpenApiGeneratorApplication.class
+org\openapitools\RFC3339DateFormat.class
+org\openapitools\model\Payment.class
+org\openapitools\api\ApiUtil.class
+org\openapitools\configuration\SpringDocConfiguration.class
+org\openapitools\model\Subscription.class
+org\openapitools\configuration\HomeController.class
+org\openapitools\model\Payment$StatusEnum.class

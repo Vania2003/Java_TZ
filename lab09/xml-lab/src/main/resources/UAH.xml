@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-xsl.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Ukrainian Hryvnia (UAH)</title>
+	<link>http://www.floatrates.com/currency/uah/</link>
+	<xmlLink>http://www.floatrates.com/daily/uah.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Ukrainian Hryvnia (UAH) from the Float Rates. Published at Fri, 9 May 2025 23:59:00 GMT.</description>
+	<language>en</language>
+	<baseCurrency>UAH</baseCurrency>
+	<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+	<lastBuildDate>Fri, 9 May 2025 23:59:00 GMT</lastBuildDate>
+	<item>
+		<title>1 UAH = 0.03755987 AUD</title>
+		<link>http://www.floatrates.com/uah/aud/</link>
+		<description>1 Ukrainian Hryvnia = 0.03755987 Australian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.03755987</exchangeRate>
+		<inverseRate>26.62416201</inverseRate>
+		<inverseDescription>1 Australian Dollar = 26.62416201 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.03350204 CAD</title>
+		<link>http://www.floatrates.com/uah/cad/</link>
+		<description>1 Ukrainian Hryvnia = 0.03350204 Canadian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.03350204</exchangeRate>
+		<inverseRate>29.84892870</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 29.84892870 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.01999631 CHF</title>
+		<link>http://www.floatrates.com/uah/chf/</link>
+		<description>1 Ukrainian Hryvnia = 0.01999631 Swiss Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.01999631</exchangeRate>
+		<inverseRate>50.00921953</inverseRate>
+		<inverseDescription>1 Swiss Franc = 50.00921953 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.17431034 CNY</title>
+		<link>http://www.floatrates.com/uah/cny/</link>
+		<description>1 Ukrainian Hryvnia = 0.17431034 Chinese Yuan</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.17431034</exchangeRate>
+		<inverseRate>5.73689421</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 5.73689421 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.02139286 EUR</title>
+		<link>http://www.floatrates.com/uah/eur/</link>
+		<description>1 Ukrainian Hryvnia = 0.02139286 Euro</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.02139286</exchangeRate>
+		<inverseRate>46.74456289</inverseRate>
+		<inverseDescription>1 Euro = 46.74456289 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.01813693 GBP</title>
+		<link>http://www.floatrates.com/uah/gbp/</link>
+		<description>1 Ukrainian Hryvnia = 0.01813693 U.K. Pound Sterling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.01813693</exchangeRate>
+		<inverseRate>55.13611427</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 55.13611427 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.18717975 HKD</title>
+		<link>http://www.floatrates.com/uah/hkd/</link>
+		<description>1 Ukrainian Hryvnia = 0.18717975 Hong Kong Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.18717975</exchangeRate>
+		<inverseRate>5.34245823</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 5.34245823 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 398.30549629 IDR</title>
+		<link>http://www.floatrates.com/uah/idr/</link>
+		<description>1 Ukrainian Hryvnia = 398.30549629 Indonesian Rupiah</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>398.30549629</exchangeRate>
+		<inverseRate>0.00251064</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.00251064 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.05633475 INR</title>
+		<link>http://www.floatrates.com/uah/inr/</link>
+		<description>1 Ukrainian Hryvnia = 2.05633475 Indian Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>2.05633475</exchangeRate>
+		<inverseRate>0.48630215</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.48630215 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.49623243 JPY</title>
+		<link>http://www.floatrates.com/uah/jpy/</link>
+		<description>1 Ukrainian Hryvnia = 3.49623243 Japanese Yen</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>3.49623243</exchangeRate>
+		<inverseRate>0.28602217</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.28602217 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 33.68328154 KRW</title>
+		<link>http://www.floatrates.com/uah/krw/</link>
+		<description>1 Ukrainian Hryvnia = 33.68328154 South Korean Won</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>33.68328154</exchangeRate>
+		<inverseRate>0.02968832</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.02968832 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.10361301 MYR</title>
+		<link>http://www.floatrates.com/uah/myr/</link>
+		<description>1 Ukrainian Hryvnia = 0.10361301 Malaysian Ringgit</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.10361301</exchangeRate>
+		<inverseRate>9.65129775</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 9.65129775 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04079633 NZD</title>
+		<link>http://www.floatrates.com/uah/nzd/</link>
+		<description>1 Ukrainian Hryvnia = 0.04079633 New Zealand Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.04079633</exchangeRate>
+		<inverseRate>24.51201119</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 24.51201119 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.33618630 PHP</title>
+		<link>http://www.floatrates.com/uah/php/</link>
+		<description>1 Ukrainian Hryvnia = 1.33618630 Philippine Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>1.33618630</exchangeRate>
+		<inverseRate>0.74839864</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.74839864 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.03124169 SGD</title>
+		<link>http://www.floatrates.com/uah/sgd/</link>
+		<description>1 Ukrainian Hryvnia = 0.03124169 Singapore Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.03124169</exchangeRate>
+		<inverseRate>32.00851197</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 32.00851197 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.79509349 THB</title>
+		<link>http://www.floatrates.com/uah/thb/</link>
+		<description>1 Ukrainian Hryvnia = 0.79509349 Thai Baht</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>0.79509349</exchangeRate>
+		<inverseRate>1.25771372</inverseRate>
+		<inverseDescription>1 Thai Baht = 1.25771372 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.72622613 TWD</title>
+		<link>http://www.floatrates.com/uah/twd/</link>
+		<description>1 Ukrainian Hryvnia = 0.72622613 New Taiwan Dollar </description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>0.72622613</exchangeRate>
+		<inverseRate>1.37698158</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 1.37698158 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.02406980 USD</title>
+		<link>http://www.floatrates.com/uah/usd/</link>
+		<description>1 Ukrainian Hryvnia = 0.02406980 U.S. Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.02406980</exchangeRate>
+		<inverseRate>41.54583494</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 41.54583494 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 625.28383024 VND</title>
+		<link>http://www.floatrates.com/uah/vnd/</link>
+		<description>1 Ukrainian Hryvnia = 625.28383024 Vietnamese Dong</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>625.28383024</exchangeRate>
+		<inverseRate>0.00159927</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00159927 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.15959342 DKK</title>
+		<link>http://www.floatrates.com/uah/dkk/</link>
+		<description>1 Ukrainian Hryvnia = 0.15959342 Danish Krone</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.15959342</exchangeRate>
+		<inverseRate>6.26592237</inverseRate>
+		<inverseDescription>1 Danish Krone = 6.26592237 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.21846442 EGP</title>
+		<link>http://www.floatrates.com/uah/egp/</link>
+		<description>1 Ukrainian Hryvnia = 1.21846442 Egyptian Pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>1.21846442</exchangeRate>
+		<inverseRate>0.82070513</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.82070513 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.08546543 ILS</title>
+		<link>http://www.floatrates.com/uah/ils/</link>
+		<description>1 Ukrainian Hryvnia = 0.08546543 Israeli New Sheqel</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.08546543</exchangeRate>
+		<inverseRate>11.70063681</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 11.70063681 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.01706627 JOD</title>
+		<link>http://www.floatrates.com/uah/jod/</link>
+		<description>1 Ukrainian Hryvnia = 0.01706627 Jordanian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.01706627</exchangeRate>
+		<inverseRate>58.59509901</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 58.59509901 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2153.64548862 LBP</title>
+		<link>http://www.floatrates.com/uah/lbp/</link>
+		<description>1 Ukrainian Hryvnia = 2153.64548862 Lebanese Pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>2153.64548862</exchangeRate>
+		<inverseRate>0.00046433</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.00046433 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.24951642 NOK</title>
+		<link>http://www.floatrates.com/uah/nok/</link>
+		<description>1 Ukrainian Hryvnia = 0.24951642 Norwegian Krone</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.24951642</exchangeRate>
+		<inverseRate>4.00775227</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 4.00775227 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.23350240 SEK</title>
+		<link>http://www.floatrates.com/uah/sek/</link>
+		<description>1 Ukrainian Hryvnia = 0.23350240 Swedish Krona</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.23350240</exchangeRate>
+		<inverseRate>4.28261120</inverseRate>
+		<inverseDescription>1 Swedish Krona = 4.28261120 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.43853837 ZAR</title>
+		<link>http://www.floatrates.com/uah/zar/</link>
+		<description>1 Ukrainian Hryvnia = 0.43853837 South African Rand</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>0.43853837</exchangeRate>
+		<inverseRate>2.28030219</inverseRate>
+		<inverseDescription>1 South African Rand = 2.28030219 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04183761 BGN</title>
+		<link>http://www.floatrates.com/uah/bgn/</link>
+		<description>1 Ukrainian Hryvnia = 0.04183761 Bulgarian Lev</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.04183761</exchangeRate>
+		<inverseRate>23.90194139</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 23.90194139 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.13611155 BRL</title>
+		<link>http://www.floatrates.com/uah/brl/</link>
+		<description>1 Ukrainian Hryvnia = 0.13611155 Brazilian Real</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.13611155</exchangeRate>
+		<inverseRate>7.34691525</inverseRate>
+		<inverseDescription>1 Brazilian Real = 7.34691525 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 22.53343065 CLP</title>
+		<link>http://www.floatrates.com/uah/clp/</link>
+		<description>1 Ukrainian Hryvnia = 22.53343065 Chilean Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>22.53343065</exchangeRate>
+		<inverseRate>0.04437851</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.04437851 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.53361519 CZK</title>
+		<link>http://www.floatrates.com/uah/czk/</link>
+		<description>1 Ukrainian Hryvnia = 0.53361519 Czech Koruna</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>0.53361519</exchangeRate>
+		<inverseRate>1.87400962</inverseRate>
+		<inverseDescription>1 Czech Koruna = 1.87400962 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 8.66070273 HUF</title>
+		<link>http://www.floatrates.com/uah/huf/</link>
+		<description>1 Ukrainian Hryvnia = 8.66070273 Hungarian Forint</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>8.66070273</exchangeRate>
+		<inverseRate>0.11546407</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.11546407 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.14216950 ISK</title>
+		<link>http://www.floatrates.com/uah/isk/</link>
+		<description>1 Ukrainian Hryvnia = 3.14216950 Icelandic Krona</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>3.14216950</exchangeRate>
+		<inverseRate>0.31825145</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.31825145 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.46932871 MXN</title>
+		<link>http://www.floatrates.com/uah/mxn/</link>
+		<description>1 Ukrainian Hryvnia = 0.46932871 Mexican Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>0.46932871</exchangeRate>
+		<inverseRate>2.13070280</inverseRate>
+		<inverseDescription>1 Mexican Peso = 2.13070280 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.09068737 PLN</title>
+		<link>http://www.floatrates.com/uah/pln/</link>
+		<description>1 Ukrainian Hryvnia = 0.09068737 Polish Zloty</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.09068737</exchangeRate>
+		<inverseRate>11.02689371</inverseRate>
+		<inverseDescription>1 Polish Zloty = 11.02689371 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.10948113 RON</title>
+		<link>http://www.floatrates.com/uah/ron/</link>
+		<description>1 Ukrainian Hryvnia = 0.10948113 Romanian New Leu</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.10948113</exchangeRate>
+		<inverseRate>9.13399399</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 9.13399399 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.93320535 TRY</title>
+		<link>http://www.floatrates.com/uah/try/</link>
+		<description>1 Ukrainian Hryvnia = 0.93320535 Turkish Lira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.93320535</exchangeRate>
+		<inverseRate>1.07157551</inverseRate>
+		<inverseDescription>1 Turkish Lira = 1.07157551 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.08839845 AED</title>
+		<link>http://www.floatrates.com/uah/aed/</link>
+		<description>1 Ukrainian Hryvnia = 0.08839845 U.A.E Dirham</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.08839845</exchangeRate>
+		<inverseRate>11.31241586</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 11.31241586 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.41286577 MDL</title>
+		<link>http://www.floatrates.com/uah/mdl/</link>
+		<description>1 Ukrainian Hryvnia = 0.41286577 Moldova Lei</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>0.41286577</exchangeRate>
+		<inverseRate>2.42209474</inverseRate>
+		<inverseDescription>1 Moldova Lei = 2.42209474 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.51062228 RSD</title>
+		<link>http://www.floatrates.com/uah/rsd/</link>
+		<description>1 Ukrainian Hryvnia = 2.51062228 Serbian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>2.51062228</exchangeRate>
+		<inverseRate>0.39830763</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.39830763 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.00422598 RUB</title>
+		<link>http://www.floatrates.com/uah/rub/</link>
+		<description>1 Ukrainian Hryvnia = 2.00422598 Russian Rouble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>2.00422598</exchangeRate>
+		<inverseRate>0.49894573</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.49894573 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04091854 AZN</title>
+		<link>http://www.floatrates.com/uah/azn/</link>
+		<description>1 Ukrainian Hryvnia = 0.04091854 Azerbaijan Manat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.04091854</exchangeRate>
+		<inverseRate>24.43879899</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 24.43879899 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.93545592 BDT</title>
+		<link>http://www.floatrates.com/uah/bdt/</link>
+		<description>1 Ukrainian Hryvnia = 2.93545592 Bangladeshi taka</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>2.93545592</exchangeRate>
+		<inverseRate>0.34066258</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.34066258 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.19609286 DZD</title>
+		<link>http://www.floatrates.com/uah/dzd/</link>
+		<description>1 Ukrainian Hryvnia = 3.19609286 Algerian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>3.19609286</exchangeRate>
+		<inverseRate>0.31288202</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.31288202 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.06600569 GEL</title>
+		<link>http://www.floatrates.com/uah/gel/</link>
+		<description>1 Ukrainian Hryvnia = 0.06600569 Georgian lari</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>0.06600569</exchangeRate>
+		<inverseRate>15.15020946</inverseRate>
+		<inverseDescription>1 Georgian lari = 15.15020946 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 12.42027857 KZT</title>
+		<link>http://www.floatrates.com/uah/kzt/</link>
+		<description>1 Ukrainian Hryvnia = 12.42027857 Kazakhstani Tenge</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>12.42027857</exchangeRate>
+		<inverseRate>0.08051349</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.08051349 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.09027608 SAR</title>
+		<link>http://www.floatrates.com/uah/sar/</link>
+		<description>1 Ukrainian Hryvnia = 0.09027608 Saudi Riyal</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.09027608</exchangeRate>
+		<inverseRate>11.07713112</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 11.07713112 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.07224134 TND</title>
+		<link>http://www.floatrates.com/uah/tnd/</link>
+		<description>1 Ukrainian Hryvnia = 0.07224134 Tunisian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.07224134</exchangeRate>
+		<inverseRate>13.84248898</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 13.84248898 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 14.03195412 XAF</title>
+		<link>http://www.floatrates.com/uah/xaf/</link>
+		<description>1 Ukrainian Hryvnia = 14.03195412 Central African CFA Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>14.03195412</exchangeRate>
+		<inverseRate>0.07126591</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.07126591 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 14.03195412 XOF</title>
+		<link>http://www.floatrates.com/uah/xof/</link>
+		<description>1 Ukrainian Hryvnia = 14.03195412 West African CFA Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>14.03195412</exchangeRate>
+		<inverseRate>0.07126591</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.07126591 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.07876996 BYN</title>
+		<link>http://www.floatrates.com/uah/byn/</link>
+		<description>1 Ukrainian Hryvnia = 0.07876996 Belarussian Ruble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>0.07876996</exchangeRate>
+		<inverseRate>12.69519479</inverseRate>
+		<inverseDescription>1 Belarussian Ruble = 12.69519479 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 6.78174175 PKR</title>
+		<link>http://www.floatrates.com/uah/pkr/</link>
+		<description>1 Ukrainian Hryvnia = 6.78174175 Pakistani Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>6.78174175</exchangeRate>
+		<inverseRate>0.14745474</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.14745474 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.69090997 AFN</title>
+		<link>http://www.floatrates.com/uah/afn/</link>
+		<description>1 Ukrainian Hryvnia = 1.69090997 Afghan afghani</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>1.69090997</exchangeRate>
+		<inverseRate>0.59139754</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.59139754 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.10364760 ALL</title>
+		<link>http://www.floatrates.com/uah/all/</link>
+		<description>1 Ukrainian Hryvnia = 2.10364760 Albanian lek</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>2.10364760</exchangeRate>
+		<inverseRate>0.47536479</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.47536479 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 9.37057994 AMD</title>
+		<link>http://www.floatrates.com/uah/amd/</link>
+		<description>1 Ukrainian Hryvnia = 9.37057994 Armenia Dram</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>9.37057994</exchangeRate>
+		<inverseRate>0.10671698</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.10671698 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 22.09677086 AOA</title>
+		<link>http://www.floatrates.com/uah/aoa/</link>
+		<description>1 Ukrainian Hryvnia = 22.09677086 Angolan kwanza</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>22.09677086</exchangeRate>
+		<inverseRate>0.04525548</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.04525548 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 26.76740025 ARS</title>
+		<link>http://www.floatrates.com/uah/ars/</link>
+		<description>1 Ukrainian Hryvnia = 26.76740025 Argentine Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>26.76740025</exchangeRate>
+		<inverseRate>0.03735888</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.03735888 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04308477 AWG</title>
+		<link>http://www.floatrates.com/uah/awg/</link>
+		<description>1 Ukrainian Hryvnia = 0.04308477 Aruban florin</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>0.04308477</exchangeRate>
+		<inverseRate>23.21005585</inverseRate>
+		<inverseDescription>1 Aruban florin = 23.21005585 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04183829 BAM</title>
+		<link>http://www.floatrates.com/uah/bam/</link>
+		<description>1 Ukrainian Hryvnia = 0.04183829 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>0.04183829</exchangeRate>
+		<inverseRate>23.90155253</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 23.90155253 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04813960 BBD</title>
+		<link>http://www.floatrates.com/uah/bbd/</link>
+		<description>1 Ukrainian Hryvnia = 0.04813960 Barbadian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.04813960</exchangeRate>
+		<inverseRate>20.77291747</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 20.77291747 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.00904864 BHD</title>
+		<link>http://www.floatrates.com/uah/bhd/</link>
+		<description>1 Ukrainian Hryvnia = 0.00904864 Bahrain Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.00904864</exchangeRate>
+		<inverseRate>110.51388530</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 110.51388530 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 70.65691084 BIF</title>
+		<link>http://www.floatrates.com/uah/bif/</link>
+		<description>1 Ukrainian Hryvnia = 70.65691084 Burundian franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>70.65691084</exchangeRate>
+		<inverseRate>0.01415290</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.01415290 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.03123170 BND</title>
+		<link>http://www.floatrates.com/uah/bnd/</link>
+		<description>1 Ukrainian Hryvnia = 0.03123170 Brunei Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.03123170</exchangeRate>
+		<inverseRate>32.01874896</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 32.01874896 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.16630973 BOB</title>
+		<link>http://www.floatrates.com/uah/bob/</link>
+		<description>1 Ukrainian Hryvnia = 0.16630973 Bolivian Boliviano</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>0.16630973</exchangeRate>
+		<inverseRate>6.01287712</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 6.01287712 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.02406980 BSD</title>
+		<link>http://www.floatrates.com/uah/bsd/</link>
+		<description>1 Ukrainian Hryvnia = 0.02406980 Bahamian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.02406980</exchangeRate>
+		<inverseRate>41.54583494</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 41.54583494 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.32614881 BWP</title>
+		<link>http://www.floatrates.com/uah/bwp/</link>
+		<description>1 Ukrainian Hryvnia = 0.32614881 Botswana Pula</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>0.32614881</exchangeRate>
+		<inverseRate>3.06608513</inverseRate>
+		<inverseDescription>1 Botswana Pula = 3.06608513 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04813960 BZD</title>
+		<link>http://www.floatrates.com/uah/bzd/</link>
+		<description>1 Ukrainian Hryvnia = 0.04813960 Belize dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>0.04813960</exchangeRate>
+		<inverseRate>20.77291747</inverseRate>
+		<inverseDescription>1 Belize dollar = 20.77291747 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 68.53233586 CDF</title>
+		<link>http://www.floatrates.com/uah/cdf/</link>
+		<description>1 Ukrainian Hryvnia = 68.53233586 Congolese franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>68.53233586</exchangeRate>
+		<inverseRate>0.01459165</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.01459165 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 102.37748596 COP</title>
+		<link>http://www.floatrates.com/uah/cop/</link>
+		<description>1 Ukrainian Hryvnia = 102.37748596 Colombian Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>102.37748596</exchangeRate>
+		<inverseRate>0.00976777</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.00976777 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 12.22639826 CRC</title>
+		<link>http://www.floatrates.com/uah/crc/</link>
+		<description>1 Ukrainian Hryvnia = 12.22639826 Costa Rican Colón</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>12.22639826</exchangeRate>
+		<inverseRate>0.08179024</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.08179024 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.57767524 CUP</title>
+		<link>http://www.floatrates.com/uah/cup/</link>
+		<description>1 Ukrainian Hryvnia = 0.57767524 Cuban peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>0.57767524</exchangeRate>
+		<inverseRate>1.73107646</inverseRate>
+		<inverseDescription>1 Cuban peso = 1.73107646 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.35874215 CVE</title>
+		<link>http://www.floatrates.com/uah/cve/</link>
+		<description>1 Ukrainian Hryvnia = 2.35874215 Cape Verde escudo</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>2.35874215</exchangeRate>
+		<inverseRate>0.42395478</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.42395478 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 4.27771627 DJF</title>
+		<link>http://www.floatrates.com/uah/djf/</link>
+		<description>1 Ukrainian Hryvnia = 4.27771627 Djiboutian franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>4.27771627</exchangeRate>
+		<inverseRate>0.23376960</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.23376960 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.41529458 DOP</title>
+		<link>http://www.floatrates.com/uah/dop/</link>
+		<description>1 Ukrainian Hryvnia = 1.41529458 Dominican Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>1.41529458</exchangeRate>
+		<inverseRate>0.70656669</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.70656669 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.37019406 ERN</title>
+		<link>http://www.floatrates.com/uah/ern/</link>
+		<description>1 Ukrainian Hryvnia = 0.37019406 Eritrean nakfa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>0.37019406</exchangeRate>
+		<inverseRate>2.70128591</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 2.70128591 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.22931084 ETB</title>
+		<link>http://www.floatrates.com/uah/etb/</link>
+		<description>1 Ukrainian Hryvnia = 3.22931084 Ethiopian birr</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>3.22931084</exchangeRate>
+		<inverseRate>0.30966359</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.30966359 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.05524375 FJD</title>
+		<link>http://www.floatrates.com/uah/fjd/</link>
+		<description>1 Ukrainian Hryvnia = 0.05524375 Fiji Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.05524375</exchangeRate>
+		<inverseRate>18.10159670</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 18.10159670 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.31753656 GHS</title>
+		<link>http://www.floatrates.com/uah/ghs/</link>
+		<description>1 Ukrainian Hryvnia = 0.31753656 Ghanaian Cedi</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>0.31753656</exchangeRate>
+		<inverseRate>3.14924370</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 3.14924370 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.01813364 GIP</title>
+		<link>http://www.floatrates.com/uah/gip/</link>
+		<description>1 Ukrainian Hryvnia = 0.01813364 Gibraltar pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.01813364</exchangeRate>
+		<inverseRate>55.14612891</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 55.14612891 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.71453483 GMD</title>
+		<link>http://www.floatrates.com/uah/gmd/</link>
+		<description>1 Ukrainian Hryvnia = 1.71453483 Gambian dalasi</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>1.71453483</exchangeRate>
+		<inverseRate>0.58324858</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.58324858 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 207.50511265 GNF</title>
+		<link>http://www.floatrates.com/uah/gnf/</link>
+		<description>1 Ukrainian Hryvnia = 207.50511265 Guinean franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>207.50511265</exchangeRate>
+		<inverseRate>0.00481916</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.00481916 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.18513767 GTQ</title>
+		<link>http://www.floatrates.com/uah/gtq/</link>
+		<description>1 Ukrainian Hryvnia = 0.18513767 Guatemalan Quetzal</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>0.18513767</exchangeRate>
+		<inverseRate>5.40138578</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 5.40138578 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 5.03588293 GYD</title>
+		<link>http://www.floatrates.com/uah/gyd/</link>
+		<description>1 Ukrainian Hryvnia = 5.03588293 Guyanese dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>5.03588293</exchangeRate>
+		<inverseRate>0.19857491</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.19857491 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.62467253 HNL</title>
+		<link>http://www.floatrates.com/uah/hnl/</link>
+		<description>1 Ukrainian Hryvnia = 0.62467253 Honduran Lempira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>0.62467253</exchangeRate>
+		<inverseRate>1.60083877</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 1.60083877 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.14427286 HTG</title>
+		<link>http://www.floatrates.com/uah/htg/</link>
+		<description>1 Ukrainian Hryvnia = 3.14427286 Haitian gourde</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>3.14427286</exchangeRate>
+		<inverseRate>0.31803856</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.31803856 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 31.53143996 IQD</title>
+		<link>http://www.floatrates.com/uah/iqd/</link>
+		<description>1 Ukrainian Hryvnia = 31.53143996 Iraqi dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>31.53143996</exchangeRate>
+		<inverseRate>0.03171438</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.03171438 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.82803753 JMD</title>
+		<link>http://www.floatrates.com/uah/jmd/</link>
+		<description>1 Ukrainian Hryvnia = 3.82803753 Jamaican Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>3.82803753</exchangeRate>
+		<inverseRate>0.26123046</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.26123046 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.11102184 KES</title>
+		<link>http://www.floatrates.com/uah/kes/</link>
+		<description>1 Ukrainian Hryvnia = 3.11102184 Kenyan shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>3.11102184</exchangeRate>
+		<inverseRate>0.32143779</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.32143779 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.10490328 KGS</title>
+		<link>http://www.floatrates.com/uah/kgs/</link>
+		<description>1 Ukrainian Hryvnia = 2.10490328 Kyrgyzstan Som</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>2.10490328</exchangeRate>
+		<inverseRate>0.47508121</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.47508121 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 96.43151400 KHR</title>
+		<link>http://www.floatrates.com/uah/khr/</link>
+		<description>1 Ukrainian Hryvnia = 96.43151400 Cambodian riel</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>96.43151400</exchangeRate>
+		<inverseRate>0.01037005</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.01037005 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 10.52396559 KMF</title>
+		<link>http://www.floatrates.com/uah/kmf/</link>
+		<description>1 Ukrainian Hryvnia = 10.52396559 	Comoro franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>10.52396559</exchangeRate>
+		<inverseRate>0.09502122</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.09502122 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.00738437 KWD</title>
+		<link>http://www.floatrates.com/uah/kwd/</link>
+		<description>1 Ukrainian Hryvnia = 0.00738437 Kuwaiti Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.00738437</exchangeRate>
+		<inverseRate>135.42112827</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 135.42112827 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 491.70676958 LAK</title>
+		<link>http://www.floatrates.com/uah/lak/</link>
+		<description>1 Ukrainian Hryvnia = 491.70676958 Lao kip</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>491.70676958</exchangeRate>
+		<inverseRate>0.00203373</inverseRate>
+		<inverseDescription>1 Lao kip = 0.00203373 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 7.19841512 LKR</title>
+		<link>http://www.floatrates.com/uah/lkr/</link>
+		<description>1 Ukrainian Hryvnia = 7.19841512 Sri Lanka Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>7.19841512</exchangeRate>
+		<inverseRate>0.13891947</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.13891947 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 4.80481326 LRD</title>
+		<link>http://www.floatrates.com/uah/lrd/</link>
+		<description>1 Ukrainian Hryvnia = 4.80481326 Liberian dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>4.80481326</exchangeRate>
+		<inverseRate>0.20812463</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.20812463 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.43817435 LSL</title>
+		<link>http://www.floatrates.com/uah/lsl/</link>
+		<description>1 Ukrainian Hryvnia = 0.43817435 Lesotho loti</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>0.43817435</exchangeRate>
+		<inverseRate>2.28219657</inverseRate>
+		<inverseDescription>1 Lesotho loti = 2.28219657 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.13173574 LYD</title>
+		<link>http://www.floatrates.com/uah/lyd/</link>
+		<description>1 Ukrainian Hryvnia = 0.13173574 Libyan Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.13173574</exchangeRate>
+		<inverseRate>7.59095424</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 7.59095424 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.22294301 MAD</title>
+		<link>http://www.floatrates.com/uah/mad/</link>
+		<description>1 Ukrainian Hryvnia = 0.22294301 Moroccan Dirham</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>0.22294301</exchangeRate>
+		<inverseRate>4.48545130</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 4.48545130 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 107.40090033 MGA</title>
+		<link>http://www.floatrates.com/uah/mga/</link>
+		<description>1 Ukrainian Hryvnia = 107.40090033 Malagasy ariary</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>107.40090033</exchangeRate>
+		<inverseRate>0.00931091</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.00931091 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.31692960 MKD</title>
+		<link>http://www.floatrates.com/uah/mkd/</link>
+		<description>1 Ukrainian Hryvnia = 1.31692960 Macedonian denar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>1.31692960</exchangeRate>
+		<inverseRate>0.75934203</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.75934203 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 50.54615530 MMK</title>
+		<link>http://www.floatrates.com/uah/mmk/</link>
+		<description>1 Ukrainian Hryvnia = 50.54615530 Myanma Kyat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>50.54615530</exchangeRate>
+		<inverseRate>0.01978390</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.01978390 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 85.99841447 MNT</title>
+		<link>http://www.floatrates.com/uah/mnt/</link>
+		<description>1 Ukrainian Hryvnia = 85.99841447 Mongolian togrog</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>85.99841447</exchangeRate>
+		<inverseRate>0.01162812</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.01162812 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.19283436 MOP</title>
+		<link>http://www.floatrates.com/uah/mop/</link>
+		<description>1 Ukrainian Hryvnia = 0.19283436 Macanese pataca</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>0.19283436</exchangeRate>
+		<inverseRate>5.18579771</inverseRate>
+		<inverseDescription>1 Macanese pataca = 5.18579771 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.95459909 MRU</title>
+		<link>http://www.floatrates.com/uah/mru/</link>
+		<description>1 Ukrainian Hryvnia = 0.95459909 Mauritanian ouguiya</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>0.95459909</exchangeRate>
+		<inverseRate>1.04756019</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 1.04756019 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.09654503 MUR</title>
+		<link>http://www.floatrates.com/uah/mur/</link>
+		<description>1 Ukrainian Hryvnia = 1.09654503 Mauritian Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>1.09654503</exchangeRate>
+		<inverseRate>0.91195525</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.91195525 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.37115668 MVR</title>
+		<link>http://www.floatrates.com/uah/mvr/</link>
+		<description>1 Ukrainian Hryvnia = 0.37115668 Maldivian rufiyaa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>0.37115668</exchangeRate>
+		<inverseRate>2.69427994</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 2.69427994 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 41.72533888 MWK</title>
+		<link>http://www.floatrates.com/uah/mwk/</link>
+		<description>1 Ukrainian Hryvnia = 41.72533888 Malawian kwacha</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>41.72533888</exchangeRate>
+		<inverseRate>0.02396625</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.02396625 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.53741258 MZN</title>
+		<link>http://www.floatrates.com/uah/mzn/</link>
+		<description>1 Ukrainian Hryvnia = 1.53741258 Mozambican metical</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>1.53741258</exchangeRate>
+		<inverseRate>0.65044349</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.65044349 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.43817435 NAD</title>
+		<link>http://www.floatrates.com/uah/nad/</link>
+		<description>1 Ukrainian Hryvnia = 0.43817435 Namibian dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>0.43817435</exchangeRate>
+		<inverseRate>2.28219657</inverseRate>
+		<inverseDescription>1 Namibian dollar = 2.28219657 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 38.74371468 NGN</title>
+		<link>http://www.floatrates.com/uah/ngn/</link>
+		<description>1 Ukrainian Hryvnia = 38.74371468 Nigerian Naira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>38.74371468</exchangeRate>
+		<inverseRate>0.02581064</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.02581064 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.88577811 NIO</title>
+		<link>http://www.floatrates.com/uah/nio/</link>
+		<description>1 Ukrainian Hryvnia = 0.88577811 Nicaraguan Córdoba</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>0.88577811</exchangeRate>
+		<inverseRate>1.12895091</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 1.12895091 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 3.28833020 NPR</title>
+		<link>http://www.floatrates.com/uah/npr/</link>
+		<description>1 Ukrainian Hryvnia = 3.28833020 Nepalese Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>3.28833020</exchangeRate>
+		<inverseRate>0.30410571</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.30410571 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.00925400 OMR</title>
+		<link>http://www.floatrates.com/uah/omr/</link>
+		<description>1 Ukrainian Hryvnia = 0.00925400 Omani Rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.00925400</exchangeRate>
+		<inverseRate>108.06142737</inverseRate>
+		<inverseDescription>1 Omani Rial = 108.06142737 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.02406980 PAB</title>
+		<link>http://www.floatrates.com/uah/pab/</link>
+		<description>1 Ukrainian Hryvnia = 0.02406980 Panamanian Balboa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.02406980</exchangeRate>
+		<inverseRate>41.54583494</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 41.54583494 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.08760198 PEN</title>
+		<link>http://www.floatrates.com/uah/pen/</link>
+		<description>1 Ukrainian Hryvnia = 0.08760198 Peruvian Nuevo Sol</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.08760198</exchangeRate>
+		<inverseRate>11.41526736</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 11.41526736 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.09901091 PGK</title>
+		<link>http://www.floatrates.com/uah/pgk/</link>
+		<description>1 Ukrainian Hryvnia = 0.09901091 Papua New Guinean kina</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>0.09901091</exchangeRate>
+		<inverseRate>10.09989705</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 10.09989705 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 192.62255121 PYG</title>
+		<link>http://www.floatrates.com/uah/pyg/</link>
+		<description>1 Ukrainian Hryvnia = 192.62255121 Paraguayan Guaraní</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>192.62255121</exchangeRate>
+		<inverseRate>0.00519150</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.00519150 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.08761348 QAR</title>
+		<link>http://www.floatrates.com/uah/qar/</link>
+		<description>1 Ukrainian Hryvnia = 0.08761348 Qatari Rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.08761348</exchangeRate>
+		<inverseRate>11.41376895</inverseRate>
+		<inverseDescription>1 Qatari Rial = 11.41376895 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 34.13212938 RWF</title>
+		<link>http://www.floatrates.com/uah/rwf/</link>
+		<description>1 Ukrainian Hryvnia = 34.13212938 Rwandan franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>34.13212938</exchangeRate>
+		<inverseRate>0.02929791</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.02929791 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.20108509 SBD</title>
+		<link>http://www.floatrates.com/uah/sbd/</link>
+		<description>1 Ukrainian Hryvnia = 0.20108509 Solomon Islands dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>0.20108509</exchangeRate>
+		<inverseRate>4.97301903</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 4.97301903 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.35541248 SCR</title>
+		<link>http://www.floatrates.com/uah/scr/</link>
+		<description>1 Ukrainian Hryvnia = 0.35541248 Seychelles rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>0.35541248</exchangeRate>
+		<inverseRate>2.81363220</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 2.81363220 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 14.45310933 SDG</title>
+		<link>http://www.floatrates.com/uah/sdg/</link>
+		<description>1 Ukrainian Hryvnia = 14.45310933 Sudanese pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>14.45310933</exchangeRate>
+		<inverseRate>0.06918926</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.06918926 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 13.75589155 SOS</title>
+		<link>http://www.floatrates.com/uah/sos/</link>
+		<description>1 Ukrainian Hryvnia = 13.75589155 Somali shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>13.75589155</exchangeRate>
+		<inverseRate>0.07269612</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.07269612 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.88199608 SRD</title>
+		<link>http://www.floatrates.com/uah/srd/</link>
+		<description>1 Ukrainian Hryvnia = 0.88199608 Surinamese dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>0.88199608</exchangeRate>
+		<inverseRate>1.13379189</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 1.13379189 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 108.29298468 SSP</title>
+		<link>http://www.floatrates.com/uah/ssp/</link>
+		<description>1 Ukrainian Hryvnia = 108.29298468 South Sudanese pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>108.29298468</exchangeRate>
+		<inverseRate>0.00923421</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.00923421 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.52409362 STN</title>
+		<link>http://www.floatrates.com/uah/stn/</link>
+		<description>1 Ukrainian Hryvnia = 0.52409362 São Tomé and Príncipe Dobra</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>0.52409362</exchangeRate>
+		<inverseRate>1.90805606</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 1.90805606 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.21061076 SVC</title>
+		<link>http://www.floatrates.com/uah/svc/</link>
+		<description>1 Ukrainian Hryvnia = 0.21061076 Salvadoran colon</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>0.21061076</exchangeRate>
+		<inverseRate>4.74809542</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 4.74809542 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.43817435 SZL</title>
+		<link>http://www.floatrates.com/uah/szl/</link>
+		<description>1 Ukrainian Hryvnia = 0.43817435 Swazi lilangeni</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>0.43817435</exchangeRate>
+		<inverseRate>2.28219657</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 2.28219657 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.25066007 TJS</title>
+		<link>http://www.floatrates.com/uah/tjs/</link>
+		<description>1 Ukrainian Hryvnia = 0.25066007 Tajikistan Ruble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>0.25066007</exchangeRate>
+		<inverseRate>3.98946666</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 3.98946666 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.08424431 TMT</title>
+		<link>http://www.floatrates.com/uah/tmt/</link>
+		<description>1 Ukrainian Hryvnia = 0.08424431 New Turkmenistan Manat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>0.08424431</exchangeRate>
+		<inverseRate>11.87023856</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 11.87023856 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.05687592 TOP</title>
+		<link>http://www.floatrates.com/uah/top/</link>
+		<description>1 Ukrainian Hryvnia = 0.05687592 Tongan paʻanga</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>0.05687592</exchangeRate>
+		<inverseRate>17.58213235</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 17.58213235 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.16328618 TTD</title>
+		<link>http://www.floatrates.com/uah/ttd/</link>
+		<description>1 Ukrainian Hryvnia = 0.16328618 Trinidad Tobago Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.16328618</exchangeRate>
+		<inverseRate>6.12421704</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 6.12421704 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 65.00483073 TZS</title>
+		<link>http://www.floatrates.com/uah/tzs/</link>
+		<description>1 Ukrainian Hryvnia = 65.00483073 Tanzanian shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>65.00483073</exchangeRate>
+		<inverseRate>0.01538347</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.01538347 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 88.09521677 UGX</title>
+		<link>http://www.floatrates.com/uah/ugx/</link>
+		<description>1 Ukrainian Hryvnia = 88.09521677 Ugandan shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>88.09521677</exchangeRate>
+		<inverseRate>0.01135135</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.01135135 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1.00609978 UYU</title>
+		<link>http://www.floatrates.com/uah/uyu/</link>
+		<description>1 Ukrainian Hryvnia = 1.00609978 Uruguayan Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>1.00609978</exchangeRate>
+		<inverseRate>0.99393720</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.99393720 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 310.15197049 UZS</title>
+		<link>http://www.floatrates.com/uah/uzs/</link>
+		<description>1 Ukrainian Hryvnia = 310.15197049 Uzbekistan Sum</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>310.15197049</exchangeRate>
+		<inverseRate>0.00322423</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.00322423 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.23162121 VES</title>
+		<link>http://www.floatrates.com/uah/ves/</link>
+		<description>1 Ukrainian Hryvnia = 2.23162121 Venezuelan Bolivar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>2.23162121</exchangeRate>
+		<inverseRate>0.44810472</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.44810472 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.90305080 VUV</title>
+		<link>http://www.floatrates.com/uah/vuv/</link>
+		<description>1 Ukrainian Hryvnia = 2.90305080 Vanuatu vatu</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>2.90305080</exchangeRate>
+		<inverseRate>0.34446521</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.34446521 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.06665829 WST</title>
+		<link>http://www.floatrates.com/uah/wst/</link>
+		<description>1 Ukrainian Hryvnia = 0.06665829 Samoan tala</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>0.06665829</exchangeRate>
+		<inverseRate>15.00188488</inverseRate>
+		<inverseDescription>1 Samoan tala = 15.00188488 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.06498761 XCD</title>
+		<link>http://www.floatrates.com/uah/xcd/</link>
+		<description>1 Ukrainian Hryvnia = 0.06498761 East Caribbean Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.06498761</exchangeRate>
+		<inverseRate>15.38754887</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 15.38754887 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.04308477 XCG</title>
+		<link>http://www.floatrates.com/uah/xcg/</link>
+		<description>1 Ukrainian Hryvnia = 0.04308477 Caribbean guilder</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>XCG</targetCurrency>
+		<targetName>Caribbean guilder</targetName>
+		<exchangeRate>0.04308477</exchangeRate>
+		<inverseRate>23.21005585</inverseRate>
+		<inverseDescription>1 Caribbean guilder = 23.21005585 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 2.55269315 XPF</title>
+		<link>http://www.floatrates.com/uah/xpf/</link>
+		<description>1 Ukrainian Hryvnia = 2.55269315 CFP Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>2.55269315</exchangeRate>
+		<inverseRate>0.39174313</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.39174313 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 5.88353911 YER</title>
+		<link>http://www.floatrates.com/uah/yer/</link>
+		<description>1 Ukrainian Hryvnia = 5.88353911 Yemeni rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>5.88353911</exchangeRate>
+		<inverseRate>0.16996573</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.16996573 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 0.64107773 ZMW</title>
+		<link>http://www.floatrates.com/uah/zmw/</link>
+		<description>1 Ukrainian Hryvnia = 0.64107773 Zambian kwacha</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>0.64107773</exchangeRate>
+		<inverseRate>1.55987325</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 1.55987325 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 1006.70607535 IRR</title>
+		<link>http://www.floatrates.com/uah/irr/</link>
+		<description>1 Ukrainian Hryvnia = 1006.70607535 Iranian rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>1006.70607535</exchangeRate>
+		<inverseRate>0.00099334</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.00099334 Ukrainian Hryvnia</inverseDescription>
+	</item>
+	<item>
+		<title>1 UAH = 313.50708229 SYP</title>
+		<link>http://www.floatrates.com/uah/syp/</link>
+		<description>1 Ukrainian Hryvnia = 313.50708229 Syrian pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>UAH</baseCurrency>
+		<baseName>Ukrainian Hryvnia</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>313.50708229</exchangeRate>
+		<inverseRate>0.00318972</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.00318972 Ukrainian Hryvnia</inverseDescription>
+	</item>
+</channel>

@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-xsl.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Belarussian Ruble (BYN)</title>
+	<link>http://www.floatrates.com/currency/byn/</link>
+	<xmlLink>http://www.floatrates.com/daily/byn.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Belarussian Ruble (BYN) from the Float Rates. Published at Fri, 9 May 2025 23:59:00 GMT.</description>
+	<language>en</language>
+	<baseCurrency>BYN</baseCurrency>
+	<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+	<lastBuildDate>Fri, 9 May 2025 23:59:00 GMT</lastBuildDate>
+	<item>
+		<title>1 BYN = 0.47682984 AUD</title>
+		<link>http://www.floatrates.com/byn/aud/</link>
+		<description>1 Belarussian Ruble = 0.47682984 Australian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.47682984</exchangeRate>
+		<inverseRate>2.09718421</inverseRate>
+		<inverseDescription>1 Australian Dollar = 2.09718421 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.42531492 CAD</title>
+		<link>http://www.floatrates.com/byn/cad/</link>
+		<description>1 Belarussian Ruble = 0.42531492 Canadian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.42531492</exchangeRate>
+		<inverseRate>2.35119895</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 2.35119895 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.25385709 CHF</title>
+		<link>http://www.floatrates.com/byn/chf/</link>
+		<description>1 Belarussian Ruble = 0.25385709 Swiss Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.25385709</exchangeRate>
+		<inverseRate>3.93922428</inverseRate>
+		<inverseDescription>1 Swiss Franc = 3.93922428 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.21290376 CNY</title>
+		<link>http://www.floatrates.com/byn/cny/</link>
+		<description>1 Belarussian Ruble = 2.21290376 Chinese Yuan</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>2.21290376</exchangeRate>
+		<inverseRate>0.45189493</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.45189493 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.27158655 EUR</title>
+		<link>http://www.floatrates.com/byn/eur/</link>
+		<description>1 Belarussian Ruble = 0.27158655 Euro</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.27158655</exchangeRate>
+		<inverseRate>3.68206740</inverseRate>
+		<inverseDescription>1 Euro = 3.68206740 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.23025189 GBP</title>
+		<link>http://www.floatrates.com/byn/gbp/</link>
+		<description>1 Belarussian Ruble = 0.23025189 U.K. Pound Sterling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.23025189</exchangeRate>
+		<inverseRate>4.34306958</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 4.34306958 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.37628339 HKD</title>
+		<link>http://www.floatrates.com/byn/hkd/</link>
+		<description>1 Belarussian Ruble = 2.37628339 Hong Kong Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.37628339</exchangeRate>
+		<inverseRate>0.42082523</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.42082523 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5056.56586129 IDR</title>
+		<link>http://www.floatrates.com/byn/idr/</link>
+		<description>1 Belarussian Ruble = 5056.56586129 Indonesian Rupiah</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>5056.56586129</exchangeRate>
+		<inverseRate>0.00019776</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.00019776 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 26.10557017 INR</title>
+		<link>http://www.floatrates.com/byn/inr/</link>
+		<description>1 Belarussian Ruble = 26.10557017 Indian Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>26.10557017</exchangeRate>
+		<inverseRate>0.03830600</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.03830600 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 44.38535178 JPY</title>
+		<link>http://www.floatrates.com/byn/jpy/</link>
+		<description>1 Belarussian Ruble = 44.38535178 Japanese Yen</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>44.38535178</exchangeRate>
+		<inverseRate>0.02252996</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.02252996 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 427.61582028 KRW</title>
+		<link>http://www.floatrates.com/byn/krw/</link>
+		<description>1 Belarussian Ruble = 427.61582028 South Korean Won</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>427.61582028</exchangeRate>
+		<inverseRate>0.00233855</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.00233855 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.31538733 MYR</title>
+		<link>http://www.floatrates.com/byn/myr/</link>
+		<description>1 Belarussian Ruble = 1.31538733 Malaysian Ringgit</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>1.31538733</exchangeRate>
+		<inverseRate>0.76023235</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.76023235 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.51791731 NZD</title>
+		<link>http://www.floatrates.com/byn/nzd/</link>
+		<description>1 Belarussian Ruble = 0.51791731 New Zealand Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.51791731</exchangeRate>
+		<inverseRate>1.93081017</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 1.93081017 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 16.96314529 PHP</title>
+		<link>http://www.floatrates.com/byn/php/</link>
+		<description>1 Belarussian Ruble = 16.96314529 Philippine Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>16.96314529</exchangeRate>
+		<inverseRate>0.05895133</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.05895133 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.39661934 SGD</title>
+		<link>http://www.floatrates.com/byn/sgd/</link>
+		<description>1 Belarussian Ruble = 0.39661934 Singapore Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.39661934</exchangeRate>
+		<inverseRate>2.52130924</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 2.52130924 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 10.09386679 THB</title>
+		<link>http://www.floatrates.com/byn/thb/</link>
+		<description>1 Belarussian Ruble = 10.09386679 Thai Baht</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>10.09386679</exchangeRate>
+		<inverseRate>0.09907006</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.09907006 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 9.21958214 TWD</title>
+		<link>http://www.floatrates.com/byn/twd/</link>
+		<description>1 Belarussian Ruble = 9.21958214 New Taiwan Dollar </description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>9.21958214</exchangeRate>
+		<inverseRate>0.10846479</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.10846479 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.30557082 USD</title>
+		<link>http://www.floatrates.com/byn/usd/</link>
+		<description>1 Belarussian Ruble = 0.30557082 U.S. Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.30557082</exchangeRate>
+		<inverseRate>3.27256380</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 3.27256380 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 7938.10002388 VND</title>
+		<link>http://www.floatrates.com/byn/vnd/</link>
+		<description>1 Belarussian Ruble = 7938.10002388 Vietnamese Dong</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>7938.10002388</exchangeRate>
+		<inverseRate>0.00012597</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00012597 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.02606959 DKK</title>
+		<link>http://www.floatrates.com/byn/dkk/</link>
+		<description>1 Belarussian Ruble = 2.02606959 Danish Krone</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>2.02606959</exchangeRate>
+		<inverseRate>0.49356646</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.49356646 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 15.46864318 EGP</title>
+		<link>http://www.floatrates.com/byn/egp/</link>
+		<description>1 Belarussian Ruble = 15.46864318 Egyptian Pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>15.46864318</exchangeRate>
+		<inverseRate>0.06464691</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.06464691 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.08500033 ILS</title>
+		<link>http://www.floatrates.com/byn/ils/</link>
+		<description>1 Belarussian Ruble = 1.08500033 Israeli New Sheqel</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>1.08500033</exchangeRate>
+		<inverseRate>0.92165871</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 0.92165871 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.21665967 JOD</title>
+		<link>http://www.floatrates.com/byn/jod/</link>
+		<description>1 Belarussian Ruble = 0.21665967 Jordanian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.21665967</exchangeRate>
+		<inverseRate>4.61553367</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 4.61553367 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 27340.94898638 LBP</title>
+		<link>http://www.floatrates.com/byn/lbp/</link>
+		<description>1 Belarussian Ruble = 27340.94898638 Lebanese Pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>27340.94898638</exchangeRate>
+		<inverseRate>0.00003658</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.00003658 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 3.16765956 NOK</title>
+		<link>http://www.floatrates.com/byn/nok/</link>
+		<description>1 Belarussian Ruble = 3.16765956 Norwegian Krone</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>3.16765956</exchangeRate>
+		<inverseRate>0.31569049</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.31569049 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.96435847 SEK</title>
+		<link>http://www.floatrates.com/byn/sek/</link>
+		<description>1 Belarussian Ruble = 2.96435847 Swedish Krona</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>2.96435847</exchangeRate>
+		<inverseRate>0.33734112</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.33734112 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5.56733001 ZAR</title>
+		<link>http://www.floatrates.com/byn/zar/</link>
+		<description>1 Belarussian Ruble = 5.56733001 South African Rand</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>5.56733001</exchangeRate>
+		<inverseRate>0.17961931</inverseRate>
+		<inverseDescription>1 South African Rand = 0.17961931 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.53113655 BGN</title>
+		<link>http://www.floatrates.com/byn/bgn/</link>
+		<description>1 Belarussian Ruble = 0.53113655 Bulgarian Lev</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.53113655</exchangeRate>
+		<inverseRate>1.88275499</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 1.88275499 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.72796260 BRL</title>
+		<link>http://www.floatrates.com/byn/brl/</link>
+		<description>1 Belarussian Ruble = 1.72796260 Brazilian Real</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>1.72796260</exchangeRate>
+		<inverseRate>0.57871623</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.57871623 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 286.06629141 CLP</title>
+		<link>http://www.floatrates.com/byn/clp/</link>
+		<description>1 Belarussian Ruble = 286.06629141 Chilean Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>286.06629141</exchangeRate>
+		<inverseRate>0.00349569</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.00349569 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 6.77434880 CZK</title>
+		<link>http://www.floatrates.com/byn/czk/</link>
+		<description>1 Belarussian Ruble = 6.77434880 Czech Koruna</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>6.77434880</exchangeRate>
+		<inverseRate>0.14761566</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.14761566 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 109.94930819 HUF</title>
+		<link>http://www.floatrates.com/byn/huf/</link>
+		<description>1 Belarussian Ruble = 109.94930819 Hungarian Forint</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>109.94930819</exchangeRate>
+		<inverseRate>0.00909510</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.00909510 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 39.89045392 ISK</title>
+		<link>http://www.floatrates.com/byn/isk/</link>
+		<description>1 Belarussian Ruble = 39.89045392 Icelandic Krona</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>39.89045392</exchangeRate>
+		<inverseRate>0.02506865</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.02506865 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5.95821942 MXN</title>
+		<link>http://www.floatrates.com/byn/mxn/</link>
+		<description>1 Belarussian Ruble = 5.95821942 Mexican Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>5.95821942</exchangeRate>
+		<inverseRate>0.16783538</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.16783538 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.15129384 PLN</title>
+		<link>http://www.floatrates.com/byn/pln/</link>
+		<description>1 Belarussian Ruble = 1.15129384 Polish Zloty</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>1.15129384</exchangeRate>
+		<inverseRate>0.86858799</inverseRate>
+		<inverseDescription>1 Polish Zloty = 0.86858799 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.38988429 RON</title>
+		<link>http://www.floatrates.com/byn/ron/</link>
+		<description>1 Belarussian Ruble = 1.38988429 Romanian New Leu</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>1.38988429</exchangeRate>
+		<inverseRate>0.71948435</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.71948435 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 11.84722369 TRY</title>
+		<link>http://www.floatrates.com/byn/try/</link>
+		<description>1 Belarussian Ruble = 11.84722369 Turkish Lira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>11.84722369</exchangeRate>
+		<inverseRate>0.08440796</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.08440796 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 12.69519479 UAH</title>
+		<link>http://www.floatrates.com/byn/uah/</link>
+		<description>1 Belarussian Ruble = 12.69519479 Ukrainian Hryvnia</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>12.69519479</exchangeRate>
+		<inverseRate>0.07876996</inverseRate>
+		<inverseDescription>1 Ukrainian Hryvnia = 0.07876996 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.12223551 AED</title>
+		<link>http://www.floatrates.com/byn/aed/</link>
+		<description>1 Belarussian Ruble = 1.12223551 U.A.E Dirham</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>1.12223551</exchangeRate>
+		<inverseRate>0.89107856</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 0.89107856 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5.24141133 MDL</title>
+		<link>http://www.floatrates.com/byn/mdl/</link>
+		<description>1 Belarussian Ruble = 5.24141133 Moldova Lei</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>5.24141133</exchangeRate>
+		<inverseRate>0.19078831</inverseRate>
+		<inverseDescription>1 Moldova Lei = 0.19078831 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 31.87283888 RSD</title>
+		<link>http://www.floatrates.com/byn/rsd/</link>
+		<description>1 Belarussian Ruble = 31.87283888 Serbian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>31.87283888</exchangeRate>
+		<inverseRate>0.03137468</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.03137468 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 25.44403923 RUB</title>
+		<link>http://www.floatrates.com/byn/rub/</link>
+		<description>1 Belarussian Ruble = 25.44403923 Russian Rouble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>25.44403923</exchangeRate>
+		<inverseRate>0.03930194</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.03930194 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.51946885 AZN</title>
+		<link>http://www.floatrates.com/byn/azn/</link>
+		<description>1 Belarussian Ruble = 0.51946885 Azerbaijan Manat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.51946885</exchangeRate>
+		<inverseRate>1.92504325</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 1.92504325 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 37.26618464 BDT</title>
+		<link>http://www.floatrates.com/byn/bdt/</link>
+		<description>1 Belarussian Ruble = 37.26618464 Bangladeshi taka</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>37.26618464</exchangeRate>
+		<inverseRate>0.02683398</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.02683398 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 40.57502141 DZD</title>
+		<link>http://www.floatrates.com/byn/dzd/</link>
+		<description>1 Belarussian Ruble = 40.57502141 Algerian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>40.57502141</exchangeRate>
+		<inverseRate>0.02464570</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.02464570 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.83795507 GEL</title>
+		<link>http://www.floatrates.com/byn/gel/</link>
+		<description>1 Belarussian Ruble = 0.83795507 Georgian lari</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>0.83795507</exchangeRate>
+		<inverseRate>1.19338141</inverseRate>
+		<inverseDescription>1 Georgian lari = 1.19338141 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 157.67785575 KZT</title>
+		<link>http://www.floatrates.com/byn/kzt/</link>
+		<description>1 Belarussian Ruble = 157.67785575 Kazakhstani Tenge</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>157.67785575</exchangeRate>
+		<inverseRate>0.00634204</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.00634204 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.14607245 SAR</title>
+		<link>http://www.floatrates.com/byn/sar/</link>
+		<description>1 Belarussian Ruble = 1.14607245 Saudi Riyal</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>1.14607245</exchangeRate>
+		<inverseRate>0.87254519</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 0.87254519 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.91711793 TND</title>
+		<link>http://www.floatrates.com/byn/tnd/</link>
+		<description>1 Belarussian Ruble = 0.91711793 Tunisian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.91711793</exchangeRate>
+		<inverseRate>1.09037232</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 1.09037232 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 178.13839086 XAF</title>
+		<link>http://www.floatrates.com/byn/xaf/</link>
+		<description>1 Belarussian Ruble = 178.13839086 Central African CFA Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>178.13839086</exchangeRate>
+		<inverseRate>0.00561361</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.00561361 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 178.13839086 XOF</title>
+		<link>http://www.floatrates.com/byn/xof/</link>
+		<description>1 Belarussian Ruble = 178.13839086 West African CFA Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>178.13839086</exchangeRate>
+		<inverseRate>0.00561361</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.00561361 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 86.09553254 PKR</title>
+		<link>http://www.floatrates.com/byn/pkr/</link>
+		<description>1 Belarussian Ruble = 86.09553254 Pakistani Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>86.09553254</exchangeRate>
+		<inverseRate>0.01161500</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.01161500 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 21.46643147 AFN</title>
+		<link>http://www.floatrates.com/byn/afn/</link>
+		<description>1 Belarussian Ruble = 21.46643147 Afghan afghani</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>21.46643147</exchangeRate>
+		<inverseRate>0.04658436</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.04658436 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 26.70621604 ALL</title>
+		<link>http://www.floatrates.com/byn/all/</link>
+		<description>1 Belarussian Ruble = 26.70621604 Albanian lek</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>26.70621604</exchangeRate>
+		<inverseRate>0.03744447</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.03744447 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 118.96133758 AMD</title>
+		<link>http://www.floatrates.com/byn/amd/</link>
+		<description>1 Belarussian Ruble = 118.96133758 Armenia Dram</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>118.96133758</exchangeRate>
+		<inverseRate>0.00840609</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.00840609 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 280.52281027 AOA</title>
+		<link>http://www.floatrates.com/byn/aoa/</link>
+		<description>1 Belarussian Ruble = 280.52281027 Angolan kwanza</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>280.52281027</exchangeRate>
+		<inverseRate>0.00356477</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.00356477 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 339.81736020 ARS</title>
+		<link>http://www.floatrates.com/byn/ars/</link>
+		<description>1 Belarussian Ruble = 339.81736020 Argentine Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>339.81736020</exchangeRate>
+		<inverseRate>0.00294276</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.00294276 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.54696959 AWG</title>
+		<link>http://www.floatrates.com/byn/awg/</link>
+		<description>1 Belarussian Ruble = 0.54696959 Aruban florin</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>0.54696959</exchangeRate>
+		<inverseRate>1.82825520</inverseRate>
+		<inverseDescription>1 Aruban florin = 1.82825520 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.53114520 BAM</title>
+		<link>http://www.floatrates.com/byn/bam/</link>
+		<description>1 Belarussian Ruble = 0.53114520 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>0.53114520</exchangeRate>
+		<inverseRate>1.88272436</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 1.88272436 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.61114164 BBD</title>
+		<link>http://www.floatrates.com/byn/bbd/</link>
+		<description>1 Belarussian Ruble = 0.61114164 Barbadian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.61114164</exchangeRate>
+		<inverseRate>1.63628190</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 1.63628190 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.11487421 BHD</title>
+		<link>http://www.floatrates.com/byn/bhd/</link>
+		<description>1 Belarussian Ruble = 0.11487421 Bahrain Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.11487421</exchangeRate>
+		<inverseRate>8.70517445</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 8.70517445 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 897.00324637 BIF</title>
+		<link>http://www.floatrates.com/byn/bif/</link>
+		<description>1 Belarussian Ruble = 897.00324637 Burundian franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>897.00324637</exchangeRate>
+		<inverseRate>0.00111482</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.00111482 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.39649253 BND</title>
+		<link>http://www.floatrates.com/byn/bnd/</link>
+		<description>1 Belarussian Ruble = 0.39649253 Brunei Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.39649253</exchangeRate>
+		<inverseRate>2.52211561</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 2.52211561 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.11133448 BOB</title>
+		<link>http://www.floatrates.com/byn/bob/</link>
+		<description>1 Belarussian Ruble = 2.11133448 Bolivian Boliviano</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>2.11133448</exchangeRate>
+		<inverseRate>0.47363410</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 0.47363410 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.30557082 BSD</title>
+		<link>http://www.floatrates.com/byn/bsd/</link>
+		<description>1 Belarussian Ruble = 0.30557082 Bahamian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.30557082</exchangeRate>
+		<inverseRate>3.27256380</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 3.27256380 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 4.14052261 BWP</title>
+		<link>http://www.floatrates.com/byn/bwp/</link>
+		<description>1 Belarussian Ruble = 4.14052261 Botswana Pula</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>4.14052261</exchangeRate>
+		<inverseRate>0.24151541</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.24151541 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.61114164 BZD</title>
+		<link>http://www.floatrates.com/byn/bzd/</link>
+		<description>1 Belarussian Ruble = 0.61114164 Belize dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>0.61114164</exchangeRate>
+		<inverseRate>1.63628190</inverseRate>
+		<inverseDescription>1 Belize dollar = 1.63628190 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 870.03135317 CDF</title>
+		<link>http://www.floatrates.com/byn/cdf/</link>
+		<description>1 Belarussian Ruble = 870.03135317 Congolese franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>870.03135317</exchangeRate>
+		<inverseRate>0.00114938</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.00114938 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1299.70212641 COP</title>
+		<link>http://www.floatrates.com/byn/cop/</link>
+		<description>1 Belarussian Ruble = 1299.70212641 Colombian Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1299.70212641</exchangeRate>
+		<inverseRate>0.00076941</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.00076941 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 155.21650743 CRC</title>
+		<link>http://www.floatrates.com/byn/crc/</link>
+		<description>1 Belarussian Ruble = 155.21650743 Costa Rican Colón</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>155.21650743</exchangeRate>
+		<inverseRate>0.00644261</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.00644261 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 7.33369964 CUP</title>
+		<link>http://www.floatrates.com/byn/cup/</link>
+		<description>1 Belarussian Ruble = 7.33369964 Cuban peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>7.33369964</exchangeRate>
+		<inverseRate>0.13635683</inverseRate>
+		<inverseDescription>1 Cuban peso = 0.13635683 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 29.94469099 CVE</title>
+		<link>http://www.floatrates.com/byn/cve/</link>
+		<description>1 Belarussian Ruble = 29.94469099 Cape Verde escudo</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>29.94469099</exchangeRate>
+		<inverseRate>0.03339490</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.03339490 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 54.30644127 DJF</title>
+		<link>http://www.floatrates.com/byn/djf/</link>
+		<description>1 Belarussian Ruble = 54.30644127 Djiboutian franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>54.30644127</exchangeRate>
+		<inverseRate>0.01841402</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.01841402 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 17.96744035 DOP</title>
+		<link>http://www.floatrates.com/byn/dop/</link>
+		<description>1 Belarussian Ruble = 17.96744035 Dominican Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>17.96744035</exchangeRate>
+		<inverseRate>0.05565623</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.05565623 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 4.69968571 ERN</title>
+		<link>http://www.floatrates.com/byn/ern/</link>
+		<description>1 Belarussian Ruble = 4.69968571 Eritrean nakfa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>4.69968571</exchangeRate>
+		<inverseRate>0.21278019</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 0.21278019 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 40.99673017 ETB</title>
+		<link>http://www.floatrates.com/byn/etb/</link>
+		<description>1 Belarussian Ruble = 40.99673017 Ethiopian birr</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>40.99673017</exchangeRate>
+		<inverseRate>0.02439219</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.02439219 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.70133011 FJD</title>
+		<link>http://www.floatrates.com/byn/fjd/</link>
+		<description>1 Belarussian Ruble = 0.70133011 Fiji Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.70133011</exchangeRate>
+		<inverseRate>1.42586207</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 1.42586207 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 4.03118844 GHS</title>
+		<link>http://www.floatrates.com/byn/ghs/</link>
+		<description>1 Belarussian Ruble = 4.03118844 Ghanaian Cedi</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>4.03118844</exchangeRate>
+		<inverseRate>0.24806580</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.24806580 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.23021008 GIP</title>
+		<link>http://www.floatrates.com/byn/gip/</link>
+		<description>1 Belarussian Ruble = 0.23021008 Gibraltar pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.23021008</exchangeRate>
+		<inverseRate>4.34385843</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 4.34385843 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 21.76635363 GMD</title>
+		<link>http://www.floatrates.com/byn/gmd/</link>
+		<description>1 Belarussian Ruble = 21.76635363 Gambian dalasi</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>21.76635363</exchangeRate>
+		<inverseRate>0.04594247</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.04594247 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2634.31782497 GNF</title>
+		<link>http://www.floatrates.com/byn/gnf/</link>
+		<description>1 Belarussian Ruble = 2634.31782497 Guinean franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>2634.31782497</exchangeRate>
+		<inverseRate>0.00037960</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.00037960 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.35035884 GTQ</title>
+		<link>http://www.floatrates.com/byn/gtq/</link>
+		<description>1 Belarussian Ruble = 2.35035884 Guatemalan Quetzal</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>2.35035884</exchangeRate>
+		<inverseRate>0.42546695</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.42546695 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 63.93151470 GYD</title>
+		<link>http://www.floatrates.com/byn/gyd/</link>
+		<description>1 Belarussian Ruble = 63.93151470 Guyanese dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>63.93151470</exchangeRate>
+		<inverseRate>0.01564174</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.01564174 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 7.93033943 HNL</title>
+		<link>http://www.floatrates.com/byn/hnl/</link>
+		<description>1 Belarussian Ruble = 7.93033943 Honduran Lempira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>7.93033943</exchangeRate>
+		<inverseRate>0.12609801</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.12609801 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 39.91715649 HTG</title>
+		<link>http://www.floatrates.com/byn/htg/</link>
+		<description>1 Belarussian Ruble = 39.91715649 Haitian gourde</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>39.91715649</exchangeRate>
+		<inverseRate>0.02505188</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.02505188 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 400.29777225 IQD</title>
+		<link>http://www.floatrates.com/byn/iqd/</link>
+		<description>1 Belarussian Ruble = 400.29777225 Iraqi dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>400.29777225</exchangeRate>
+		<inverseRate>0.00249814</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.00249814 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 48.59768208 JMD</title>
+		<link>http://www.floatrates.com/byn/jmd/</link>
+		<description>1 Belarussian Ruble = 48.59768208 Jamaican Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>48.59768208</exchangeRate>
+		<inverseRate>0.02057711</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.02057711 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 39.49502829 KES</title>
+		<link>http://www.floatrates.com/byn/kes/</link>
+		<description>1 Belarussian Ruble = 39.49502829 Kenyan shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>39.49502829</exchangeRate>
+		<inverseRate>0.02531964</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.02531964 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 26.72215722 KGS</title>
+		<link>http://www.floatrates.com/byn/kgs/</link>
+		<description>1 Belarussian Ruble = 26.72215722 Kyrgyzstan Som</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>26.72215722</exchangeRate>
+		<inverseRate>0.03742213</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.03742213 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1224.21685406 KHR</title>
+		<link>http://www.floatrates.com/byn/khr/</link>
+		<description>1 Belarussian Ruble = 1224.21685406 Cambodian riel</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>1224.21685406</exchangeRate>
+		<inverseRate>0.00081685</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.00081685 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 133.60379315 KMF</title>
+		<link>http://www.floatrates.com/byn/kmf/</link>
+		<description>1 Belarussian Ruble = 133.60379315 	Comoro franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>133.60379315</exchangeRate>
+		<inverseRate>0.00748482</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.00748482 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.09374604 KWD</title>
+		<link>http://www.floatrates.com/byn/kwd/</link>
+		<description>1 Belarussian Ruble = 0.09374604 Kuwaiti Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.09374604</exchangeRate>
+		<inverseRate>10.66711701</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 10.66711701 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 6242.31321927 LAK</title>
+		<link>http://www.floatrates.com/byn/lak/</link>
+		<description>1 Belarussian Ruble = 6242.31321927 Lao kip</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>6242.31321927</exchangeRate>
+		<inverseRate>0.00016020</inverseRate>
+		<inverseDescription>1 Lao kip = 0.00016020 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 91.38528211 LKR</title>
+		<link>http://www.floatrates.com/byn/lkr/</link>
+		<description>1 Belarussian Ruble = 91.38528211 Sri Lanka Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>91.38528211</exchangeRate>
+		<inverseRate>0.01094268</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.01094268 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 60.99804027 LRD</title>
+		<link>http://www.floatrates.com/byn/lrd/</link>
+		<description>1 Belarussian Ruble = 60.99804027 Liberian dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>60.99804027</exchangeRate>
+		<inverseRate>0.01639397</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.01639397 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5.56270873 LSL</title>
+		<link>http://www.floatrates.com/byn/lsl/</link>
+		<description>1 Belarussian Ruble = 5.56270873 Lesotho loti</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>5.56270873</exchangeRate>
+		<inverseRate>0.17976854</inverseRate>
+		<inverseDescription>1 Lesotho loti = 0.17976854 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.67241092 LYD</title>
+		<link>http://www.floatrates.com/byn/lyd/</link>
+		<description>1 Belarussian Ruble = 1.67241092 Libyan Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>1.67241092</exchangeRate>
+		<inverseRate>0.59793917</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.59793917 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.83030490 MAD</title>
+		<link>http://www.floatrates.com/byn/mad/</link>
+		<description>1 Belarussian Ruble = 2.83030490 Moroccan Dirham</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>2.83030490</exchangeRate>
+		<inverseRate>0.35331882</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.35331882 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1363.47535035 MGA</title>
+		<link>http://www.floatrates.com/byn/mga/</link>
+		<description>1 Belarussian Ruble = 1363.47535035 Malagasy ariary</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>1363.47535035</exchangeRate>
+		<inverseRate>0.00073342</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.00073342 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 16.71867784 MKD</title>
+		<link>http://www.floatrates.com/byn/mkd/</link>
+		<description>1 Belarussian Ruble = 16.71867784 Macedonian denar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>16.71867784</exchangeRate>
+		<inverseRate>0.05981334</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.05981334 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 641.69328747 MMK</title>
+		<link>http://www.floatrates.com/byn/mmk/</link>
+		<description>1 Belarussian Ruble = 641.69328747 Myanma Kyat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>641.69328747</exchangeRate>
+		<inverseRate>0.00155838</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.00155838 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1091.76662334 MNT</title>
+		<link>http://www.floatrates.com/byn/mnt/</link>
+		<description>1 Belarussian Ruble = 1091.76662334 Mongolian togrog</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>1091.76662334</exchangeRate>
+		<inverseRate>0.00091595</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.00091595 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.44806980 MOP</title>
+		<link>http://www.floatrates.com/byn/mop/</link>
+		<description>1 Belarussian Ruble = 2.44806980 Macanese pataca</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>2.44806980</exchangeRate>
+		<inverseRate>0.40848508</inverseRate>
+		<inverseDescription>1 Macanese pataca = 0.40848508 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 12.11882134 MRU</title>
+		<link>http://www.floatrates.com/byn/mru/</link>
+		<description>1 Belarussian Ruble = 12.11882134 Mauritanian ouguiya</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>12.11882134</exchangeRate>
+		<inverseRate>0.08251628</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 0.08251628 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 13.92085274 MUR</title>
+		<link>http://www.floatrates.com/byn/mur/</link>
+		<description>1 Belarussian Ruble = 13.92085274 Mauritian Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>13.92085274</exchangeRate>
+		<inverseRate>0.07183468</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.07183468 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 4.71190637 MVR</title>
+		<link>http://www.floatrates.com/byn/mvr/</link>
+		<description>1 Belarussian Ruble = 4.71190637 Maldivian rufiyaa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>4.71190637</exchangeRate>
+		<inverseRate>0.21222833</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 0.21222833 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 529.71130470 MWK</title>
+		<link>http://www.floatrates.com/byn/mwk/</link>
+		<description>1 Belarussian Ruble = 529.71130470 Malawian kwacha</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>529.71130470</exchangeRate>
+		<inverseRate>0.00188782</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.00188782 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 19.51775216 MZN</title>
+		<link>http://www.floatrates.com/byn/mzn/</link>
+		<description>1 Belarussian Ruble = 19.51775216 Mozambican metical</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>19.51775216</exchangeRate>
+		<inverseRate>0.05123541</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.05123541 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5.56270873 NAD</title>
+		<link>http://www.floatrates.com/byn/nad/</link>
+		<description>1 Belarussian Ruble = 5.56270873 Namibian dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>5.56270873</exchangeRate>
+		<inverseRate>0.17976854</inverseRate>
+		<inverseDescription>1 Namibian dollar = 0.17976854 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 491.85900471 NGN</title>
+		<link>http://www.floatrates.com/byn/ngn/</link>
+		<description>1 Belarussian Ruble = 491.85900471 Nigerian Naira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>491.85900471</exchangeRate>
+		<inverseRate>0.00203310</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.00203310 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 11.24512561 NIO</title>
+		<link>http://www.floatrates.com/byn/nio/</link>
+		<description>1 Belarussian Ruble = 11.24512561 Nicaraguan Córdoba</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>11.24512561</exchangeRate>
+		<inverseRate>0.08892742</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.08892742 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 41.74599243 NPR</title>
+		<link>http://www.floatrates.com/byn/npr/</link>
+		<description>1 Belarussian Ruble = 41.74599243 Nepalese Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>41.74599243</exchangeRate>
+		<inverseRate>0.02395440</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.02395440 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.11748128 OMR</title>
+		<link>http://www.floatrates.com/byn/omr/</link>
+		<description>1 Belarussian Ruble = 0.11748128 Omani Rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.11748128</exchangeRate>
+		<inverseRate>8.51199443</inverseRate>
+		<inverseDescription>1 Omani Rial = 8.51199443 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.30557082 PAB</title>
+		<link>http://www.floatrates.com/byn/pab/</link>
+		<description>1 Belarussian Ruble = 0.30557082 Panamanian Balboa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.30557082</exchangeRate>
+		<inverseRate>3.27256380</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 3.27256380 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.11212417 PEN</title>
+		<link>http://www.floatrates.com/byn/pen/</link>
+		<description>1 Belarussian Ruble = 1.11212417 Peruvian Nuevo Sol</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>1.11212417</exchangeRate>
+		<inverseRate>0.89918017</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 0.89918017 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.25696279 PGK</title>
+		<link>http://www.floatrates.com/byn/pgk/</link>
+		<description>1 Belarussian Ruble = 1.25696279 Papua New Guinean kina</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>1.25696279</exchangeRate>
+		<inverseRate>0.79556850</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 0.79556850 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2445.38080856 PYG</title>
+		<link>http://www.floatrates.com/byn/pyg/</link>
+		<description>1 Belarussian Ruble = 2445.38080856 Paraguayan Guaraní</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>2445.38080856</exchangeRate>
+		<inverseRate>0.00040893</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.00040893 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.11227018 QAR</title>
+		<link>http://www.floatrates.com/byn/qar/</link>
+		<description>1 Belarussian Ruble = 1.11227018 Qatari Rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>1.11227018</exchangeRate>
+		<inverseRate>0.89906214</inverseRate>
+		<inverseDescription>1 Qatari Rial = 0.89906214 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 433.31403113 RWF</title>
+		<link>http://www.floatrates.com/byn/rwf/</link>
+		<description>1 Belarussian Ruble = 433.31403113 Rwandan franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>433.31403113</exchangeRate>
+		<inverseRate>0.00230780</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.00230780 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.55281444 SBD</title>
+		<link>http://www.floatrates.com/byn/sbd/</link>
+		<description>1 Belarussian Ruble = 2.55281444 Solomon Islands dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>2.55281444</exchangeRate>
+		<inverseRate>0.39172452</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 0.39172452 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 4.51203068 SCR</title>
+		<link>http://www.floatrates.com/byn/scr/</link>
+		<description>1 Belarussian Ruble = 4.51203068 Seychelles rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>4.51203068</exchangeRate>
+		<inverseRate>0.22162970</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 0.22162970 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 183.48503832 SDG</title>
+		<link>http://www.floatrates.com/byn/sdg/</link>
+		<description>1 Belarussian Ruble = 183.48503832 Sudanese pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>183.48503832</exchangeRate>
+		<inverseRate>0.00545004</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.00545004 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 174.63372278 SOS</title>
+		<link>http://www.floatrates.com/byn/sos/</link>
+		<description>1 Belarussian Ruble = 174.63372278 Somali shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>174.63372278</exchangeRate>
+		<inverseRate>0.00572627</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.00572627 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 11.19711200 SRD</title>
+		<link>http://www.floatrates.com/byn/srd/</link>
+		<description>1 Belarussian Ruble = 11.19711200 Surinamese dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>11.19711200</exchangeRate>
+		<inverseRate>0.08930874</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 0.08930874 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1374.80053486 SSP</title>
+		<link>http://www.floatrates.com/byn/ssp/</link>
+		<description>1 Belarussian Ruble = 1374.80053486 South Sudanese pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>1374.80053486</exchangeRate>
+		<inverseRate>0.00072738</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.00072738 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 6.65347054 STN</title>
+		<link>http://www.floatrates.com/byn/stn/</link>
+		<description>1 Belarussian Ruble = 6.65347054 São Tomé and Príncipe Dobra</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>6.65347054</exchangeRate>
+		<inverseRate>0.15029750</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.15029750 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.67374466 SVC</title>
+		<link>http://www.floatrates.com/byn/svc/</link>
+		<description>1 Belarussian Ruble = 2.67374466 Salvadoran colon</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>2.67374466</exchangeRate>
+		<inverseRate>0.37400729</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 0.37400729 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 5.56270873 SZL</title>
+		<link>http://www.floatrates.com/byn/szl/</link>
+		<description>1 Belarussian Ruble = 5.56270873 Swazi lilangeni</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>5.56270873</exchangeRate>
+		<inverseRate>0.17976854</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 0.17976854 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 3.18217844 TJS</title>
+		<link>http://www.floatrates.com/byn/tjs/</link>
+		<description>1 Belarussian Ruble = 3.18217844 Tajikistan Ruble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>3.18217844</exchangeRate>
+		<inverseRate>0.31425013</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 0.31425013 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1.06949786 TMT</title>
+		<link>http://www.floatrates.com/byn/tmt/</link>
+		<description>1 Belarussian Ruble = 1.06949786 New Turkmenistan Manat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>1.06949786</exchangeRate>
+		<inverseRate>0.93501823</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 0.93501823 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.72205092 TOP</title>
+		<link>http://www.floatrates.com/byn/top/</link>
+		<description>1 Belarussian Ruble = 0.72205092 Tongan paʻanga</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>0.72205092</exchangeRate>
+		<inverseRate>1.38494388</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 1.38494388 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 2.07294985 TTD</title>
+		<link>http://www.floatrates.com/byn/ttd/</link>
+		<description>1 Belarussian Ruble = 2.07294985 Trinidad Tobago Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>2.07294985</exchangeRate>
+		<inverseRate>0.48240434</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.48240434 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 825.24898836 TZS</title>
+		<link>http://www.floatrates.com/byn/tzs/</link>
+		<description>1 Belarussian Ruble = 825.24898836 Tanzanian shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>825.24898836</exchangeRate>
+		<inverseRate>0.00121176</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.00121176 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 1118.38593691 UGX</title>
+		<link>http://www.floatrates.com/byn/ugx/</link>
+		<description>1 Belarussian Ruble = 1118.38593691 Ugandan shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>1118.38593691</exchangeRate>
+		<inverseRate>0.00089415</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.00089415 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 12.77263270 UYU</title>
+		<link>http://www.floatrates.com/byn/uyu/</link>
+		<description>1 Belarussian Ruble = 12.77263270 Uruguayan Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>12.77263270</exchangeRate>
+		<inverseRate>0.07829239</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.07829239 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 3937.43967982 UZS</title>
+		<link>http://www.floatrates.com/byn/uzs/</link>
+		<description>1 Belarussian Ruble = 3937.43967982 Uzbekistan Sum</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>3937.43967982</exchangeRate>
+		<inverseRate>0.00025397</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.00025397 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 28.33086591 VES</title>
+		<link>http://www.floatrates.com/byn/ves/</link>
+		<description>1 Belarussian Ruble = 28.33086591 Venezuelan Bolivar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>28.33086591</exchangeRate>
+		<inverseRate>0.03529719</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.03529719 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 36.85479540 VUV</title>
+		<link>http://www.floatrates.com/byn/vuv/</link>
+		<description>1 Belarussian Ruble = 36.85479540 Vanuatu vatu</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>36.85479540</exchangeRate>
+		<inverseRate>0.02713351</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.02713351 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.84623998 WST</title>
+		<link>http://www.floatrates.com/byn/wst/</link>
+		<description>1 Belarussian Ruble = 0.84623998 Samoan tala</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>0.84623998</exchangeRate>
+		<inverseRate>1.18169789</inverseRate>
+		<inverseDescription>1 Samoan tala = 1.18169789 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.82503035 XCD</title>
+		<link>http://www.floatrates.com/byn/xcd/</link>
+		<description>1 Belarussian Ruble = 0.82503035 East Caribbean Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.82503035</exchangeRate>
+		<inverseRate>1.21207663</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 1.21207663 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 0.54696959 XCG</title>
+		<link>http://www.floatrates.com/byn/xcg/</link>
+		<description>1 Belarussian Ruble = 0.54696959 Caribbean guilder</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>XCG</targetCurrency>
+		<targetName>Caribbean guilder</targetName>
+		<exchangeRate>0.54696959</exchangeRate>
+		<inverseRate>1.82825520</inverseRate>
+		<inverseDescription>1 Caribbean guilder = 1.82825520 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 32.40693676 XPF</title>
+		<link>http://www.floatrates.com/byn/xpf/</link>
+		<description>1 Belarussian Ruble = 32.40693676 CFP Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>32.40693676</exchangeRate>
+		<inverseRate>0.03085759</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.03085759 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 74.69267501 YER</title>
+		<link>http://www.floatrates.com/byn/yer/</link>
+		<description>1 Belarussian Ruble = 74.69267501 Yemeni rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>74.69267501</exchangeRate>
+		<inverseRate>0.01338819</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.01338819 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 8.13860664 ZMW</title>
+		<link>http://www.floatrates.com/byn/zmw/</link>
+		<description>1 Belarussian Ruble = 8.13860664 Zambian kwacha</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>8.13860664</exchangeRate>
+		<inverseRate>0.12287116</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 0.12287116 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 12780.32972271 IRR</title>
+		<link>http://www.floatrates.com/byn/irr/</link>
+		<description>1 Belarussian Ruble = 12780.32972271 Iranian rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>12780.32972271</exchangeRate>
+		<inverseRate>0.00007825</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.00007825 Belarussian Ruble</inverseDescription>
+	</item>
+	<item>
+		<title>1 BYN = 3980.03347766 SYP</title>
+		<link>http://www.floatrates.com/byn/syp/</link>
+		<description>1 Belarussian Ruble = 3980.03347766 Syrian pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>BYN</baseCurrency>
+		<baseName>Belarussian Ruble</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>3980.03347766</exchangeRate>
+		<inverseRate>0.00025125</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.00025125 Belarussian Ruble</inverseDescription>
+	</item>
+</channel>

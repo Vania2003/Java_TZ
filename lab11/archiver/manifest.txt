@@ -1,0 +1,2 @@
+Main-Class: com.archiver.app.ArchiverApp
+Multi-Release: true

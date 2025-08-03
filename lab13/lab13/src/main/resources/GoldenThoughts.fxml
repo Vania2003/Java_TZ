@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?language javascript?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.collections.FXCollections?>
+<?import java.lang.String?>
+
+<VBox fx:id="vbox" layoutX="10.0" layoutY="10.0" prefHeight="400.0" prefWidth="500.0" spacing="10" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+
+    <fx:script>
+        <![CDATA[
+        // Import Java classes
+        var File = Java.type("java.io.File");
+        var Files = Java.type("java.nio.file.Files");
+        var Paths = Java.type("java.nio.file.Paths");
+        var Collectors = Java.type("java.util.stream.Collectors");
+        var ArrayList = Java.type("java.util.ArrayList");
+        var Random = Java.type("java.util.Random");
+        var Clipboard = Java.type("javafx.scene.input.Clipboard");
+        var ClipboardContent = Java.type("javafx.scene.input.ClipboardContent");
+        var FXCollections = Java.type("javafx.collections.FXCollections");
+        var System = Java.type("java.lang.System");
+        var StandardCharsets = Java.type("java.nio.charset.StandardCharsets");
+        var Collections = Java.type("java.util.Collections");
+        var Arrays = Java.type("java.util.Arrays");
+        var MainApp = Java.type("pl.e_science.git.ivahan0788.MainApp");
+        var URL = Java.type("java.net.URL");
+        var URI = Java.type("java.net.URI");
+
+        var thoughtsMap = {};
+        var currentCategory = "general";
+        function loadThoughts() {
+            try {
+                var categories = MainApp.getCategories();
+                for (var i = 0; i < categories.size(); i++) {
+                    var category = categories.get(i);
+                    System.out.println(category);
+
+                    var stream = MainApp.getResource(category + ".txt");
+                    if (stream == null) {
+                        System.err.println("Nie znaleziono pliku: " + category + ".txt");
+                        continue;
+                    }
+                var lines = new java.io.BufferedReader(new java.io.InputStreamReader(stream, StandardCharsets.UTF_8));
+                    var thoughtList = new ArrayList();
+                    var line = lines.readLine();
+                    while (line != null) {
+                        if (!line.trim().isEmpty()) {
+                            thoughtList.add(line.trim());
+                        }
+                        line = lines.readLine(); // ← здесь ключ
+                    }
+                    lines.close();
+                    if (!thoughtList.isEmpty()) {
+                        thoughtsMap[category] = thoughtList;
+                    }
+                }
+                if (Object.keys(thoughtsMap).length === 0) {
+                    System.err.println("No thoughts loaded from files");
+                    return;
+                }
+                System.out.println("Loaded thoughts from files: " + JSON.stringify(thoughtsMap));
+                populateCategories();
+            } catch (e) {
+                System.err.println("Error loading thoughts from files: " + e);
+            }
+        }
+
+        function populateCategories() {
+            var categories = new ArrayList(Object.keys(thoughtsMap));
+            categoryComboBox.setItems(FXCollections.observableArrayList(categories));
+            if (categories.contains(currentCategory)) {
+                categoryComboBox.setValue(currentCategory);
+            } else if (categories.size() > 0) {
+                currentCategory = categories.get(0);
+                categoryComboBox.setValue(currentCategory);
+            }
+        }
+
+        function generateThought() {
+            if (!outputTextArea) {
+                System.err.println("outputTextArea is not initialized");
+                return;
+            }
+            
+            var thoughts = thoughtsMap[currentCategory];
+            if (thoughts == null || thoughts.isEmpty()) {
+                outputTextArea.setText("Brak złotych myśli dla kategorii: " + currentCategory);
+                return;
+            }
+            var randomIndex = new Random().nextInt(thoughts.size());
+            var thought = thoughts.get(randomIndex);
+            outputTextArea.setText(thought);
+        }
+
+        function copyToClipboard() {
+            if (!outputTextArea) {
+                System.err.println("outputTextArea is not initialized");
+                return;
+            }
+            
+            var clipboard = Clipboard.getSystemClipboard();
+            var content = new ClipboardContent();
+            content.putString(outputTextArea.getText());
+            clipboard.setContent(content);
+            System.out.println("Skopiowano do schowka: " + outputTextArea.getText());
+        }
+
+        function onCategoryChanged() {
+            currentCategory = categoryComboBox.getValue();
+            generateThought();
+        }
+
+        javafx.application.Platform.runLater(function() {
+            try {
+                loadThoughts();
+                generateThought();
+            } catch (e) {
+                System.err.println("Error during initialization: " + e);
+            }
+        });
+        ]]>
+    </fx:script>
+
+    <children>
+        <Label text="Złote Myśli" styleClass="label-header"/>
+
+        <TextArea fx:id="outputTextArea" editable="false" wrapText="true" prefHeight="150" prefWidth="400"/>
+
+        <HBox alignment="CENTER" spacing="10">
+            <Button text="Generuj Nową Myśl" onAction="generateThought()"/>
+            <Button text="Kopiuj do Schowka" onAction="copyToClipboard()"/>
+        </HBox>
+
+        <ComboBox fx:id="categoryComboBox" promptText="Wybierz kategorię" onAction="onCategoryChanged()">
+            <items>
+                <FXCollections fx:factory="observableArrayList">
+                    <String fx:value="general"/>
+                </FXCollections>
+            </items>
+        </ComboBox>
+    </children>
+</VBox>

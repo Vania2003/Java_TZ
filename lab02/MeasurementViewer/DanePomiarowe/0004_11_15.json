@@ -1,0 +1,7 @@
+[
+    {"time": "11:15", "pressure": "958.50", "temperature": "1.2", "humidity": "55"},
+    {"time": "11:17", "pressure": "958.52", "temperature": "1.3", "humidity": "56"},
+    {"time": "11:19", "pressure": "958.48", "temperature": "1.2", "humidity": "55"},
+    {"time": "11:21", "pressure": "958.55", "temperature": "1.1", "humidity": "54"},
+    {"time": "11:23", "pressure": "958.53", "temperature": "1.2", "humidity": "55"}
+]

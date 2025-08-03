@@ -1,0 +1,12 @@
+{
+  "categories": [
+    { "name": "A", "priority": 5 },
+    { "name": "B", "priority": 3 },
+    { "name": "C", "priority": 1 }
+  ],
+  "desks": {
+    "1": ["A", "B", "C"],
+    "2": ["A", "B"],
+    "3": ["C"]
+  }
+}

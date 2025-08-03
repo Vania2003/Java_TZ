@@ -1,0 +1,83 @@
+.root {
+    -fx-padding: 20;
+    -fx-background-color: linear-gradient(to bottom right, #0f0f0f, #1a1a1a);
+    -fx-border-radius: 12;
+    -fx-background-radius: 12;
+    -fx-effect: dropshadow(gaussian, rgba(0,255,255,0.2), 10, 0.3, 0, 0);
+}
+
+.label-header {
+    -fx-font-size: 28pt;
+    -fx-font-family: "Segoe UI", "Verdana", sans-serif;
+    -fx-text-fill: white;
+    -fx-opacity: 1;
+    -fx-effect: none;
+}
+
+.label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI", "Verdana", sans-serif;
+    -fx-text-fill: #aaaaaa;
+}
+
+.text-area {
+    -fx-font-size: 13pt;
+    -fx-font-family: "Consolas", "Courier New", monospace;
+    -fx-text-fill: black;
+    -fx-background-color: rgba(255,255,255,0.55);
+    -fx-background-radius: 8;
+    -fx-border-color: #00fff7;
+    -fx-border-radius: 8;
+    -fx-border-width: 1.5;
+}
+
+.text-area .content {
+    -fx-background-color: transparent;
+}
+
+.button {
+    -fx-padding: 8 24 8 24;
+    -fx-background-color: linear-gradient(to bottom, #00fff7, #00c9ff);
+    -fx-background-radius: 30;
+    -fx-text-fill: #000000;
+    -fx-font-size: 12pt;
+    -fx-font-family: "Segoe UI Semibold", sans-serif;
+    -fx-effect: dropshadow(gaussian, #00fff7, 4, 0.4, 0, 0);
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom, #00ffe0, #00aaff);
+}
+
+.button:pressed {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #00aaff;
+}
+
+.combo-box {
+    -fx-background-color: #1e1e1e;
+    -fx-border-color: #00c9ff;
+    -fx-border-radius: 6;
+    -fx-border-width: 1.5;
+    -fx-background-radius: 6;
+    -fx-text-fill: white;
+    -fx-padding: 4 8 4 8;
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.combo-box .list-cell {
+    -fx-text-fill: white;
+    -fx-background-color: #1e1e1e;
+}
+
+.combo-box .list-cell:hover {
+    -fx-background-color: #2a2a2a;
+}
+
+.combo-box .list-view {
+    -fx-background-color: #1a1a1a;
+    -fx-border-color: #00c9ff;
+    -fx-border-width: 1;
+}

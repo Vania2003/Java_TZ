@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <!-- Konsola -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- Plik z monitami -->
+        <RollingFile name="MonitFile"
+                     fileName="logs/monits.log"
+                     filePattern="logs/monits-%d{yyyy-MM-dd}.log.gz">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5level - %msg%n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+        </RollingFile>
+
+        <!-- Plik z eskalacjami -->
+        <RollingFile name="EscalationFile"
+                     fileName="logs/escalations.log"
+                     filePattern="logs/escalations-%d{yyyy-MM-dd}.log.gz">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} %-5level - %msg%n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Logger dla klas: com.example.untitled.tvapp.service.accounting -->
+        <Logger name="com.example.untitled.tvapp.service.accounting"
+                level="INFO" additivity="false">
+            <!-- INFO = monity -->
+            <AppenderRef ref="MonitFile" level="INFO"/>
+            <!-- WARN+ = eskalacje -->
+            <AppenderRef ref="EscalationFile" level="WARN"/>
+            <!-- także na konsolę -->
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- Root logger na wypadek innych komunikatów -->
+        <Root level="INFO">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

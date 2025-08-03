@@ -1,0 +1,44 @@
+# 1. Pobierz listę wszystkich klientów
+curl -X GET "http://localhost:8080/clients" -H "accept: application/json"
+
+# 2. Dodaj nowego klienta
+curl -X POST "http://localhost:8080/clients" -H "accept: */*" -H "Content-Type: application/json" -d "{\"name\":\"Marek Nowak\",\"email\":\"marek.nowak@example.com\",\"address\":\"ul. Główna 5\"}"
+
+# 3. Dodaj drugiego klienta
+curl -X POST "http://localhost:8080/clients" -H "accept: */*" -H "Content-Type: application/json" -d "{\"name\":\"Ewa Zielinska\",\"email\":\"ewa.zielinska@example.com\",\"address\":\"ul. Zielona 12\"}"
+
+# 4. Pobierz klienta o ID 1
+curl -X GET "http://localhost:8080/clients/1" -H "accept: application/json"
+
+# 5. Pobierz klienta o ID 2
+curl -X GET "http://localhost:8080/clients/2" -H "accept: application/json"
+
+# 6. Zaktualizuj klienta o ID 1
+curl -X PUT "http://localhost:8080/clients/1" -H "accept: */*" -H "Content-Type: application/json" -d "{\"name\":\"Marek Nowak (aktualizacja)\",\"email\":\"marek.nowak@nowy.pl\",\"address\":\"ul. Nowa 10\"}"
+
+# 7. Dodaj subskrypcję do klienta ID 1
+curl -X POST "http://localhost:8080/clients/1/subscriptions" -H "accept: */*" -H "Content-Type: application/json" -d "{\"serviceType\":\"Internet 300Mb/s\",\"startDate\":\"2024-01-01\",\"endDate\":\"2025-01-01\"}"
+
+# 8. Dodaj subskrypcję do klienta ID 2
+curl -X POST "http://localhost:8080/clients/2/subscriptions" -H "accept: */*" -H "Content-Type: application/json" -d "{\"serviceType\":\"TV HD 150 kanałów\",\"startDate\":\"2024-02-01\",\"endDate\":\"2025-02-01\"}"
+
+# 9. Pobierz subskrypcje klienta ID 1
+curl -X GET "http://localhost:8080/clients/1/subscriptions" -H "accept: application/json"
+
+# 10. Dodaj płatność do klienta ID 1
+curl -X POST "http://localhost:8080/clients/1/payments" -H "accept: */*" -H "Content-Type: application/json" -d "{\"amount\":99.99,\"paymentDate\":\"2024-01-05\",\"status\":\"PAID\"}"
+
+# 11. Dodaj płatność do klienta ID 2
+curl -X POST "http://localhost:8080/clients/2/payments" -H "accept: */*" -H "Content-Type: application/json" -d "{\"amount\":120.00,\"paymentDate\":\"2024-02-10\",\"status\":\"PENDING\"}"
+
+# 12. Pobierz płatności klienta ID 1
+curl -X GET "http://localhost:8080/clients/1/payments" -H "accept: application/json"
+
+# 13. Pobierz płatności klienta ID 2
+curl -X GET "http://localhost:8080/clients/2/payments" -H "accept: application/json"
+
+# 14. Usuń klienta o ID 2
+curl -X DELETE "http://localhost:8080/clients/2" -H "accept: */*"
+
+# 15. Spróbuj ponownie pobrać klienta o ID 2 (powinien być 404)
+curl -X GET "http://localhost:8080/clients/2" -H "accept: application/json"

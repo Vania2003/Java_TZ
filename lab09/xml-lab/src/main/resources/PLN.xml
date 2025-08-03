@@ -1,0 +1,1910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.floatrates.com/currency-xsl.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Polish Zloty (PLN)</title>
+	<link>http://www.floatrates.com/currency/pln/</link>
+	<xmlLink>http://www.floatrates.com/daily/pln.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Polish Zloty (PLN) from the Float Rates. Published at Fri, 9 May 2025 23:59:00 GMT.</description>
+	<language>en</language>
+	<baseCurrency>PLN</baseCurrency>
+	<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+	<lastBuildDate>Fri, 9 May 2025 23:59:00 GMT</lastBuildDate>
+	<item>
+		<title>1 PLN = 0.41416867 AUD</title>
+		<link>http://www.floatrates.com/pln/aud/</link>
+		<description>1 Polish Zloty = 0.41416867 Australian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.41416867</exchangeRate>
+		<inverseRate>2.41447526</inverseRate>
+		<inverseDescription>1 Australian Dollar = 2.41447526 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.36942343 CAD</title>
+		<link>http://www.floatrates.com/pln/cad/</link>
+		<description>1 Polish Zloty = 0.36942343 Canadian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.36942343</exchangeRate>
+		<inverseRate>2.70692087</inverseRate>
+		<inverseDescription>1 Canadian Dollar = 2.70692087 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.22049722 CHF</title>
+		<link>http://www.floatrates.com/pln/chf/</link>
+		<description>1 Polish Zloty = 0.22049722 Swiss Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.22049722</exchangeRate>
+		<inverseRate>4.53520464</inverseRate>
+		<inverseDescription>1 Swiss Franc = 4.53520464 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.92210163 CNY</title>
+		<link>http://www.floatrates.com/pln/cny/</link>
+		<description>1 Polish Zloty = 1.92210163 Chinese Yuan</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.92210163</exchangeRate>
+		<inverseRate>0.52026385</inverseRate>
+		<inverseDescription>1 Chinese Yuan = 0.52026385 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.23589682 EUR</title>
+		<link>http://www.floatrates.com/pln/eur/</link>
+		<description>1 Polish Zloty = 0.23589682 Euro</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.23589682</exchangeRate>
+		<inverseRate>4.23914151</inverseRate>
+		<inverseDescription>1 Euro = 4.23914151 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.19999403 GBP</title>
+		<link>http://www.floatrates.com/pln/gbp/</link>
+		<description>1 Polish Zloty = 0.19999403 U.K. Pound Sterling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.19999403</exchangeRate>
+		<inverseRate>5.00014925</inverseRate>
+		<inverseDescription>1 U.K. Pound Sterling = 5.00014925 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.06401121 HKD</title>
+		<link>http://www.floatrates.com/pln/hkd/</link>
+		<description>1 Polish Zloty = 2.06401121 Hong Kong Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.06401121</exchangeRate>
+		<inverseRate>0.48449349</inverseRate>
+		<inverseDescription>1 Hong Kong Dollar = 0.48449349 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4392.07237155 IDR</title>
+		<link>http://www.floatrates.com/pln/idr/</link>
+		<description>1 Polish Zloty = 4392.07237155 Indonesian Rupiah</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>4392.07237155</exchangeRate>
+		<inverseRate>0.00022768</inverseRate>
+		<inverseDescription>1 Indonesian Rupiah = 0.00022768 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 22.67498469 INR</title>
+		<link>http://www.floatrates.com/pln/inr/</link>
+		<description>1 Polish Zloty = 22.67498469 Indian Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>22.67498469</exchangeRate>
+		<inverseRate>0.04410146</inverseRate>
+		<inverseDescription>1 Indian Rupee = 0.04410146 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 38.55258343 JPY</title>
+		<link>http://www.floatrates.com/pln/jpy/</link>
+		<description>1 Polish Zloty = 38.55258343 Japanese Yen</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>38.55258343</exchangeRate>
+		<inverseRate>0.02593860</inverseRate>
+		<inverseDescription>1 Japanese Yen = 0.02593860 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 371.42196530 KRW</title>
+		<link>http://www.floatrates.com/pln/krw/</link>
+		<description>1 Polish Zloty = 371.42196530 South Korean Won</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>371.42196530</exchangeRate>
+		<inverseRate>0.00269236</inverseRate>
+		<inverseDescription>1 South Korean Won = 0.00269236 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.14252964 MYR</title>
+		<link>http://www.floatrates.com/pln/myr/</link>
+		<description>1 Polish Zloty = 1.14252964 Malaysian Ringgit</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>1.14252964</exchangeRate>
+		<inverseRate>0.87525082</inverseRate>
+		<inverseDescription>1 Malaysian Ringgit = 0.87525082 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.44985675 NZD</title>
+		<link>http://www.floatrates.com/pln/nzd/</link>
+		<description>1 Polish Zloty = 0.44985675 New Zealand Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.44985675</exchangeRate>
+		<inverseRate>2.22292985</inverseRate>
+		<inverseDescription>1 New Zealand Dollar = 2.22292985 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 14.73398425 PHP</title>
+		<link>http://www.floatrates.com/pln/php/</link>
+		<description>1 Polish Zloty = 14.73398425 Philippine Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>14.73398425</exchangeRate>
+		<inverseRate>0.06787030</inverseRate>
+		<inverseDescription>1 Philippine Peso = 0.06787030 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.34449879 SGD</title>
+		<link>http://www.floatrates.com/pln/sgd/</link>
+		<description>1 Polish Zloty = 0.34449879 Singapore Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.34449879</exchangeRate>
+		<inverseRate>2.90276780</inverseRate>
+		<inverseDescription>1 Singapore Dollar = 2.90276780 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 8.76741145 THB</title>
+		<link>http://www.floatrates.com/pln/thb/</link>
+		<description>1 Polish Zloty = 8.76741145 Thai Baht</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>8.76741145</exchangeRate>
+		<inverseRate>0.11405875</inverseRate>
+		<inverseDescription>1 Thai Baht = 0.11405875 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 8.00801831 TWD</title>
+		<link>http://www.floatrates.com/pln/twd/</link>
+		<description>1 Polish Zloty = 8.00801831 New Taiwan Dollar </description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>8.00801831</exchangeRate>
+		<inverseRate>0.12487484</inverseRate>
+		<inverseDescription>1 New Taiwan Dollar  = 0.12487484 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.26541514 USD</title>
+		<link>http://www.floatrates.com/pln/usd/</link>
+		<description>1 Polish Zloty = 0.26541514 U.S. Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.26541514</exchangeRate>
+		<inverseRate>3.76768254</inverseRate>
+		<inverseDescription>1 U.S. Dollar = 3.76768254 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 6894.93833441 VND</title>
+		<link>http://www.floatrates.com/pln/vnd/</link>
+		<description>1 Polish Zloty = 6894.93833441 Vietnamese Dong</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>6894.93833441</exchangeRate>
+		<inverseRate>0.00014503</inverseRate>
+		<inverseDescription>1 Vietnamese Dong = 0.00014503 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.75981971 DKK</title>
+		<link>http://www.floatrates.com/pln/dkk/</link>
+		<description>1 Polish Zloty = 1.75981971 Danish Krone</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>1.75981971</exchangeRate>
+		<inverseRate>0.56824003</inverseRate>
+		<inverseDescription>1 Danish Krone = 0.56824003 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 13.43587767 EGP</title>
+		<link>http://www.floatrates.com/pln/egp/</link>
+		<description>1 Polish Zloty = 13.43587767 Egyptian Pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>13.43587767</exchangeRate>
+		<inverseRate>0.07442759</inverseRate>
+		<inverseDescription>1 Egyptian Pound = 0.07442759 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.94241825 ILS</title>
+		<link>http://www.floatrates.com/pln/ils/</link>
+		<description>1 Polish Zloty = 0.94241825 Israeli New Sheqel</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.94241825</exchangeRate>
+		<inverseRate>1.06109999</inverseRate>
+		<inverseDescription>1 Israeli New Sheqel = 1.06109999 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.18818799 JOD</title>
+		<link>http://www.floatrates.com/pln/jod/</link>
+		<description>1 Polish Zloty = 0.18818799 Jordanian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.18818799</exchangeRate>
+		<inverseRate>5.31383548</inverseRate>
+		<inverseDescription>1 Jordanian Dinar = 5.31383548 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 23748.01989118 LBP</title>
+		<link>http://www.floatrates.com/pln/lbp/</link>
+		<description>1 Polish Zloty = 23748.01989118 Lebanese Pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>23748.01989118</exchangeRate>
+		<inverseRate>0.00004211</inverseRate>
+		<inverseDescription>1 Lebanese Pound = 0.00004211 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.75139105 NOK</title>
+		<link>http://www.floatrates.com/pln/nok/</link>
+		<description>1 Polish Zloty = 2.75139105 Norwegian Krone</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>2.75139105</exchangeRate>
+		<inverseRate>0.36345252</inverseRate>
+		<inverseDescription>1 Norwegian Krone = 0.36345252 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.57480616 SEK</title>
+		<link>http://www.floatrates.com/pln/sek/</link>
+		<description>1 Polish Zloty = 2.57480616 Swedish Krona</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>2.57480616</exchangeRate>
+		<inverseRate>0.38837875</inverseRate>
+		<inverseDescription>1 Swedish Krona = 0.38837875 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.83571598 ZAR</title>
+		<link>http://www.floatrates.com/pln/zar/</link>
+		<description>1 Polish Zloty = 4.83571598 South African Rand</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>4.83571598</exchangeRate>
+		<inverseRate>0.20679461</inverseRate>
+		<inverseDescription>1 South African Rand = 0.20679461 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.46133883 BGN</title>
+		<link>http://www.floatrates.com/pln/bgn/</link>
+		<description>1 Polish Zloty = 0.46133883 Bulgarian Lev</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.46133883</exchangeRate>
+		<inverseRate>2.16760422</inverseRate>
+		<inverseDescription>1 Bulgarian Lev = 2.16760422 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.50088756 BRL</title>
+		<link>http://www.floatrates.com/pln/brl/</link>
+		<description>1 Polish Zloty = 1.50088756 Brazilian Real</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>1.50088756</exchangeRate>
+		<inverseRate>0.66627243</inverseRate>
+		<inverseDescription>1 Brazilian Real = 0.66627243 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 248.47374471 CLP</title>
+		<link>http://www.floatrates.com/pln/clp/</link>
+		<description>1 Polish Zloty = 248.47374471 Chilean Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>248.47374471</exchangeRate>
+		<inverseRate>0.00402457</inverseRate>
+		<inverseDescription>1 Chilean Peso = 0.00402457 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 5.88411800 CZK</title>
+		<link>http://www.floatrates.com/pln/czk/</link>
+		<description>1 Polish Zloty = 5.88411800 Czech Koruna</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>5.88411800</exchangeRate>
+		<inverseRate>0.16994901</inverseRate>
+		<inverseDescription>1 Czech Koruna = 0.16994901 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 95.50064847 HUF</title>
+		<link>http://www.floatrates.com/pln/huf/</link>
+		<description>1 Polish Zloty = 95.50064847 Hungarian Forint</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>95.50064847</exchangeRate>
+		<inverseRate>0.01047113</inverseRate>
+		<inverseDescription>1 Hungarian Forint = 0.01047113 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 34.64836914 ISK</title>
+		<link>http://www.floatrates.com/pln/isk/</link>
+		<description>1 Polish Zloty = 34.64836914 Icelandic Krona</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>34.64836914</exchangeRate>
+		<inverseRate>0.02886139</inverseRate>
+		<inverseDescription>1 Icelandic Krona = 0.02886139 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 5.17523782 MXN</title>
+		<link>http://www.floatrates.com/pln/mxn/</link>
+		<description>1 Polish Zloty = 5.17523782 Mexican Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>5.17523782</exchangeRate>
+		<inverseRate>0.19322783</inverseRate>
+		<inverseDescription>1 Mexican Peso = 0.19322783 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.20723680 RON</title>
+		<link>http://www.floatrates.com/pln/ron/</link>
+		<description>1 Polish Zloty = 1.20723680 Romanian New Leu</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>1.20723680</exchangeRate>
+		<inverseRate>0.82833790</inverseRate>
+		<inverseDescription>1 Romanian New Leu = 0.82833790 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 10.29035620 TRY</title>
+		<link>http://www.floatrates.com/pln/try/</link>
+		<description>1 Polish Zloty = 10.29035620 Turkish Lira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>10.29035620</exchangeRate>
+		<inverseRate>0.09717837</inverseRate>
+		<inverseDescription>1 Turkish Lira = 0.09717837 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 11.02689371 UAH</title>
+		<link>http://www.floatrates.com/pln/uah/</link>
+		<description>1 Polish Zloty = 11.02689371 Ukrainian Hryvnia</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>11.02689371</exchangeRate>
+		<inverseRate>0.09068737</inverseRate>
+		<inverseDescription>1 Ukrainian Hryvnia = 0.09068737 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.97476029 AED</title>
+		<link>http://www.floatrates.com/pln/aed/</link>
+		<description>1 Polish Zloty = 0.97476029 U.A.E Dirham</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.97476029</exchangeRate>
+		<inverseRate>1.02589325</inverseRate>
+		<inverseDescription>1 U.A.E Dirham = 1.02589325 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.55262692 MDL</title>
+		<link>http://www.floatrates.com/pln/mdl/</link>
+		<description>1 Polish Zloty = 4.55262692 Moldova Lei</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>4.55262692</exchangeRate>
+		<inverseRate>0.21965340</inverseRate>
+		<inverseDescription>1 Moldova Lei = 0.21965340 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 27.68436502 RSD</title>
+		<link>http://www.floatrates.com/pln/rsd/</link>
+		<description>1 Polish Zloty = 27.68436502 Serbian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>27.68436502</exchangeRate>
+		<inverseRate>0.03612147</inverseRate>
+		<inverseDescription>1 Serbian Dinar = 0.03612147 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 22.10038686 RUB</title>
+		<link>http://www.floatrates.com/pln/rub/</link>
+		<description>1 Polish Zloty = 22.10038686 Russian Rouble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>22.10038686</exchangeRate>
+		<inverseRate>0.04524808</inverseRate>
+		<inverseDescription>1 Russian Rouble = 0.04524808 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.45120440 AZN</title>
+		<link>http://www.floatrates.com/pln/azn/</link>
+		<description>1 Polish Zloty = 0.45120440 Azerbaijan Manat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.45120440</exchangeRate>
+		<inverseRate>2.21629043</inverseRate>
+		<inverseDescription>1 Azerbaijan Manat = 2.21629043 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 32.36896037 BDT</title>
+		<link>http://www.floatrates.com/pln/bdt/</link>
+		<description>1 Polish Zloty = 32.36896037 Bangladeshi taka</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BDT</targetCurrency>
+		<targetName>Bangladeshi taka</targetName>
+		<exchangeRate>32.36896037</exchangeRate>
+		<inverseRate>0.03089379</inverseRate>
+		<inverseDescription>1 Bangladeshi taka = 0.03089379 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 35.24297624 DZD</title>
+		<link>http://www.floatrates.com/pln/dzd/</link>
+		<description>1 Polish Zloty = 35.24297624 Algerian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>35.24297624</exchangeRate>
+		<inverseRate>0.02837445</inverseRate>
+		<inverseDescription>1 Algerian Dinar = 0.02837445 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.72783771 GEL</title>
+		<link>http://www.floatrates.com/pln/gel/</link>
+		<description>1 Polish Zloty = 0.72783771 Georgian lari</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GEL</targetCurrency>
+		<targetName>Georgian lari</targetName>
+		<exchangeRate>0.72783771</exchangeRate>
+		<inverseRate>1.37393266</inverseRate>
+		<inverseDescription>1 Georgian lari = 1.37393266 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 136.95709160 KZT</title>
+		<link>http://www.floatrates.com/pln/kzt/</link>
+		<description>1 Polish Zloty = 136.95709160 Kazakhstani Tenge</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>136.95709160</exchangeRate>
+		<inverseRate>0.00730156</inverseRate>
+		<inverseDescription>1 Kazakhstani Tenge = 0.00730156 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.99546476 SAR</title>
+		<link>http://www.floatrates.com/pln/sar/</link>
+		<description>1 Polish Zloty = 0.99546476 Saudi Riyal</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.99546476</exchangeRate>
+		<inverseRate>1.00455590</inverseRate>
+		<inverseDescription>1 Saudi Riyal = 1.00455590 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.79659761 TND</title>
+		<link>http://www.floatrates.com/pln/tnd/</link>
+		<description>1 Polish Zloty = 0.79659761 Tunisian Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.79659761</exchangeRate>
+		<inverseRate>1.25533893</inverseRate>
+		<inverseDescription>1 Tunisian Dinar = 1.25533893 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 154.72886664 XAF</title>
+		<link>http://www.floatrates.com/pln/xaf/</link>
+		<description>1 Polish Zloty = 154.72886664 Central African CFA Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>154.72886664</exchangeRate>
+		<inverseRate>0.00646292</inverseRate>
+		<inverseDescription>1 Central African CFA Franc = 0.00646292 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 154.72886664 XOF</title>
+		<link>http://www.floatrates.com/pln/xof/</link>
+		<description>1 Polish Zloty = 154.72886664 West African CFA Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>154.72886664</exchangeRate>
+		<inverseRate>0.00646292</inverseRate>
+		<inverseDescription>1 West African CFA Franc = 0.00646292 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.86858799 BYN</title>
+		<link>http://www.floatrates.com/pln/byn/</link>
+		<description>1 Polish Zloty = 0.86858799 Belarussian Ruble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>0.86858799</exchangeRate>
+		<inverseRate>1.15129384</inverseRate>
+		<inverseDescription>1 Belarussian Ruble = 1.15129384 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 74.78154545 PKR</title>
+		<link>http://www.floatrates.com/pln/pkr/</link>
+		<description>1 Polish Zloty = 74.78154545 Pakistani Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>74.78154545</exchangeRate>
+		<inverseRate>0.01337228</inverseRate>
+		<inverseDescription>1 Pakistani Rupee = 0.01337228 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 18.64548454 AFN</title>
+		<link>http://www.floatrates.com/pln/afn/</link>
+		<description>1 Polish Zloty = 18.64548454 Afghan afghani</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AFN</targetCurrency>
+		<targetName>Afghan afghani</targetName>
+		<exchangeRate>18.64548454</exchangeRate>
+		<inverseRate>0.05363229</inverseRate>
+		<inverseDescription>1 Afghan afghani = 0.05363229 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 23.19669848 ALL</title>
+		<link>http://www.floatrates.com/pln/all/</link>
+		<description>1 Polish Zloty = 23.19669848 Albanian lek</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ALL</targetCurrency>
+		<targetName>Albanian lek</targetName>
+		<exchangeRate>23.19669848</exchangeRate>
+		<inverseRate>0.04310958</inverseRate>
+		<inverseDescription>1 Albanian lek = 0.04310958 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 103.32838895 AMD</title>
+		<link>http://www.floatrates.com/pln/amd/</link>
+		<description>1 Polish Zloty = 103.32838895 Armenia Dram</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>103.32838895</exchangeRate>
+		<inverseRate>0.00967788</inverseRate>
+		<inverseDescription>1 Armenia Dram = 0.00967788 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 243.65874358 AOA</title>
+		<link>http://www.floatrates.com/pln/aoa/</link>
+		<description>1 Polish Zloty = 243.65874358 Angolan kwanza</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AOA</targetCurrency>
+		<targetName>Angolan kwanza</targetName>
+		<exchangeRate>243.65874358</exchangeRate>
+		<inverseRate>0.00410410</inverseRate>
+		<inverseDescription>1 Angolan kwanza = 0.00410410 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 295.16127744 ARS</title>
+		<link>http://www.floatrates.com/pln/ars/</link>
+		<description>1 Polish Zloty = 295.16127744 Argentine Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>295.16127744</exchangeRate>
+		<inverseRate>0.00338798</inverseRate>
+		<inverseDescription>1 Argentine Peso = 0.00338798 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.47509122 AWG</title>
+		<link>http://www.floatrates.com/pln/awg/</link>
+		<description>1 Polish Zloty = 0.47509122 Aruban florin</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>AWG</targetCurrency>
+		<targetName>Aruban florin</targetName>
+		<exchangeRate>0.47509122</exchangeRate>
+		<inverseRate>2.10485894</inverseRate>
+		<inverseDescription>1 Aruban florin = 2.10485894 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.46134634 BAM</title>
+		<link>http://www.floatrates.com/pln/bam/</link>
+		<description>1 Polish Zloty = 0.46134634 Bosnia and Herzegovina convertible mark</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BAM</targetCurrency>
+		<targetName>Bosnia and Herzegovina convertible mark</targetName>
+		<exchangeRate>0.46134634</exchangeRate>
+		<inverseRate>2.16756896</inverseRate>
+		<inverseDescription>1 Bosnia and Herzegovina convertible mark = 2.16756896 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.53083029 BBD</title>
+		<link>http://www.floatrates.com/pln/bbd/</link>
+		<description>1 Polish Zloty = 0.53083029 Barbadian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.53083029</exchangeRate>
+		<inverseRate>1.88384127</inverseRate>
+		<inverseDescription>1 Barbadian Dollar = 1.88384127 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.09977836 BHD</title>
+		<link>http://www.floatrates.com/pln/bhd/</link>
+		<description>1 Polish Zloty = 0.09977836 Bahrain Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.09977836</exchangeRate>
+		<inverseRate>10.02221371</inverseRate>
+		<inverseDescription>1 Bahrain Dinar = 10.02221371 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 779.12624569 BIF</title>
+		<link>http://www.floatrates.com/pln/bif/</link>
+		<description>1 Polish Zloty = 779.12624569 Burundian franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BIF</targetCurrency>
+		<targetName>Burundian franc</targetName>
+		<exchangeRate>779.12624569</exchangeRate>
+		<inverseRate>0.00128349</inverseRate>
+		<inverseDescription>1 Burundian franc = 0.00128349 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.34438865 BND</title>
+		<link>http://www.floatrates.com/pln/bnd/</link>
+		<description>1 Polish Zloty = 0.34438865 Brunei Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.34438865</exchangeRate>
+		<inverseRate>2.90369616</inverseRate>
+		<inverseDescription>1 Brunei Dollar = 2.90369616 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.83387977 BOB</title>
+		<link>http://www.floatrates.com/pln/bob/</link>
+		<description>1 Polish Zloty = 1.83387977 Bolivian Boliviano</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>1.83387977</exchangeRate>
+		<inverseRate>0.54529202</inverseRate>
+		<inverseDescription>1 Bolivian Boliviano = 0.54529202 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.26541514 BSD</title>
+		<link>http://www.floatrates.com/pln/bsd/</link>
+		<description>1 Polish Zloty = 0.26541514 Bahamian Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BSD</targetCurrency>
+		<targetName>Bahamian Dollar</targetName>
+		<exchangeRate>0.26541514</exchangeRate>
+		<inverseRate>3.76768254</inverseRate>
+		<inverseDescription>1 Bahamian Dollar = 3.76768254 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 3.59640821 BWP</title>
+		<link>http://www.floatrates.com/pln/bwp/</link>
+		<description>1 Polish Zloty = 3.59640821 Botswana Pula</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>3.59640821</exchangeRate>
+		<inverseRate>0.27805520</inverseRate>
+		<inverseDescription>1 Botswana Pula = 0.27805520 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.53083029 BZD</title>
+		<link>http://www.floatrates.com/pln/bzd/</link>
+		<description>1 Polish Zloty = 0.53083029 Belize dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>BZD</targetCurrency>
+		<targetName>Belize dollar</targetName>
+		<exchangeRate>0.53083029</exchangeRate>
+		<inverseRate>1.88384127</inverseRate>
+		<inverseDescription>1 Belize dollar = 1.88384127 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 755.69878322 CDF</title>
+		<link>http://www.floatrates.com/pln/cdf/</link>
+		<description>1 Polish Zloty = 755.69878322 Congolese franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CDF</targetCurrency>
+		<targetName>Congolese franc</targetName>
+		<exchangeRate>755.69878322</exchangeRate>
+		<inverseRate>0.00132328</inverseRate>
+		<inverseDescription>1 Congolese franc = 0.00132328 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1128.90565598 COP</title>
+		<link>http://www.floatrates.com/pln/cop/</link>
+		<description>1 Polish Zloty = 1128.90565598 Colombian Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>1128.90565598</exchangeRate>
+		<inverseRate>0.00088581</inverseRate>
+		<inverseDescription>1 Colombian Peso = 0.00088581 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 134.81919402 CRC</title>
+		<link>http://www.floatrates.com/pln/crc/</link>
+		<description>1 Polish Zloty = 134.81919402 Costa Rican Colón</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>134.81919402</exchangeRate>
+		<inverseRate>0.00741734</inverseRate>
+		<inverseDescription>1 Costa Rican Colón = 0.00741734 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 6.36996342 CUP</title>
+		<link>http://www.floatrates.com/pln/cup/</link>
+		<description>1 Polish Zloty = 6.36996342 Cuban peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CUP</targetCurrency>
+		<targetName>Cuban peso</targetName>
+		<exchangeRate>6.36996342</exchangeRate>
+		<inverseRate>0.15698677</inverseRate>
+		<inverseDescription>1 Cuban peso = 0.15698677 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 26.00959892 CVE</title>
+		<link>http://www.floatrates.com/pln/cve/</link>
+		<description>1 Polish Zloty = 26.00959892 Cape Verde escudo</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>CVE</targetCurrency>
+		<targetName>Cape Verde escudo</targetName>
+		<exchangeRate>26.00959892</exchangeRate>
+		<inverseRate>0.03844734</inverseRate>
+		<inverseDescription>1 Cape Verde escudo = 0.03844734 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 47.16992260 DJF</title>
+		<link>http://www.floatrates.com/pln/djf/</link>
+		<description>1 Polish Zloty = 47.16992260 Djiboutian franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>DJF</targetCurrency>
+		<targetName>Djiboutian franc</targetName>
+		<exchangeRate>47.16992260</exchangeRate>
+		<inverseRate>0.02119995</inverseRate>
+		<inverseDescription>1 Djiboutian franc = 0.02119995 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 15.60630287 DOP</title>
+		<link>http://www.floatrates.com/pln/dop/</link>
+		<description>1 Polish Zloty = 15.60630287 Dominican Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>15.60630287</exchangeRate>
+		<inverseRate>0.06407668</inverseRate>
+		<inverseDescription>1 Dominican Peso = 0.06407668 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.08209056 ERN</title>
+		<link>http://www.floatrates.com/pln/ern/</link>
+		<description>1 Polish Zloty = 4.08209056 Eritrean nakfa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ERN</targetCurrency>
+		<targetName>Eritrean nakfa</targetName>
+		<exchangeRate>4.08209056</exchangeRate>
+		<inverseRate>0.24497252</inverseRate>
+		<inverseDescription>1 Eritrean nakfa = 0.24497252 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 35.60926741 ETB</title>
+		<link>http://www.floatrates.com/pln/etb/</link>
+		<description>1 Polish Zloty = 35.60926741 Ethiopian birr</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ETB</targetCurrency>
+		<targetName>Ethiopian birr</targetName>
+		<exchangeRate>35.60926741</exchangeRate>
+		<inverseRate>0.02808258</inverseRate>
+		<inverseDescription>1 Ethiopian birr = 0.02808258 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.60916691 FJD</title>
+		<link>http://www.floatrates.com/pln/fjd/</link>
+		<description>1 Polish Zloty = 0.60916691 Fiji Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>FJD</targetCurrency>
+		<targetName>Fiji Dollar</targetName>
+		<exchangeRate>0.60916691</exchangeRate>
+		<inverseRate>1.64158621</inverseRate>
+		<inverseDescription>1 Fiji Dollar = 1.64158621 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 3.50144186 GHS</title>
+		<link>http://www.floatrates.com/pln/ghs/</link>
+		<description>1 Polish Zloty = 3.50144186 Ghanaian Cedi</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GHS</targetCurrency>
+		<targetName>Ghanaian Cedi</targetName>
+		<exchangeRate>3.50144186</exchangeRate>
+		<inverseRate>0.28559663</inverseRate>
+		<inverseDescription>1 Ghanaian Cedi = 0.28559663 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.19995771 GIP</title>
+		<link>http://www.floatrates.com/pln/gip/</link>
+		<description>1 Polish Zloty = 0.19995771 Gibraltar pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GIP</targetCurrency>
+		<targetName>Gibraltar pound</targetName>
+		<exchangeRate>0.19995771</exchangeRate>
+		<inverseRate>5.00105745</inverseRate>
+		<inverseDescription>1 Gibraltar pound = 5.00105745 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 18.90599332 GMD</title>
+		<link>http://www.floatrates.com/pln/gmd/</link>
+		<description>1 Polish Zloty = 18.90599332 Gambian dalasi</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GMD</targetCurrency>
+		<targetName>Gambian dalasi</targetName>
+		<exchangeRate>18.90599332</exchangeRate>
+		<inverseRate>0.05289328</inverseRate>
+		<inverseDescription>1 Gambian dalasi = 0.05289328 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2288.13682138 GNF</title>
+		<link>http://www.floatrates.com/pln/gnf/</link>
+		<description>1 Polish Zloty = 2288.13682138 Guinean franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GNF</targetCurrency>
+		<targetName>Guinean franc</targetName>
+		<exchangeRate>2288.13682138</exchangeRate>
+		<inverseRate>0.00043704</inverseRate>
+		<inverseDescription>1 Guinean franc = 0.00043704 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.04149345 GTQ</title>
+		<link>http://www.floatrates.com/pln/gtq/</link>
+		<description>1 Polish Zloty = 2.04149345 Guatemalan Quetzal</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GTQ</targetCurrency>
+		<targetName>Guatemalan Quetzal</targetName>
+		<exchangeRate>2.04149345</exchangeRate>
+		<inverseRate>0.48983748</inverseRate>
+		<inverseDescription>1 Guatemalan Quetzal = 0.48983748 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 55.53014577 GYD</title>
+		<link>http://www.floatrates.com/pln/gyd/</link>
+		<description>1 Polish Zloty = 55.53014577 Guyanese dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>GYD</targetCurrency>
+		<targetName>Guyanese dollar</targetName>
+		<exchangeRate>55.53014577</exchangeRate>
+		<inverseRate>0.01800824</inverseRate>
+		<inverseDescription>1 Guyanese dollar = 0.01800824 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 6.88819758 HNL</title>
+		<link>http://www.floatrates.com/pln/hnl/</link>
+		<description>1 Polish Zloty = 6.88819758 Honduran Lempira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>HNL</targetCurrency>
+		<targetName>Honduran Lempira</targetName>
+		<exchangeRate>6.88819758</exchangeRate>
+		<inverseRate>0.14517586</inverseRate>
+		<inverseDescription>1 Honduran Lempira = 0.14517586 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 34.67156268 HTG</title>
+		<link>http://www.floatrates.com/pln/htg/</link>
+		<description>1 Polish Zloty = 34.67156268 Haitian gourde</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>HTG</targetCurrency>
+		<targetName>Haitian gourde</targetName>
+		<exchangeRate>34.67156268</exchangeRate>
+		<inverseRate>0.02884208</inverseRate>
+		<inverseDescription>1 Haitian gourde = 0.02884208 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 347.69383691 IQD</title>
+		<link>http://www.floatrates.com/pln/iqd/</link>
+		<description>1 Polish Zloty = 347.69383691 Iraqi dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>IQD</targetCurrency>
+		<targetName>Iraqi dinar</targetName>
+		<exchangeRate>347.69383691</exchangeRate>
+		<inverseRate>0.00287609</inverseRate>
+		<inverseDescription>1 Iraqi dinar = 0.00287609 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 42.21136293 JMD</title>
+		<link>http://www.floatrates.com/pln/jmd/</link>
+		<description>1 Polish Zloty = 42.21136293 Jamaican Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>JMD</targetCurrency>
+		<targetName>Jamaican Dollar</targetName>
+		<exchangeRate>42.21136293</exchangeRate>
+		<inverseRate>0.02369030</inverseRate>
+		<inverseDescription>1 Jamaican Dollar = 0.02369030 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 34.30490719 KES</title>
+		<link>http://www.floatrates.com/pln/kes/</link>
+		<description>1 Polish Zloty = 34.30490719 Kenyan shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KES</targetCurrency>
+		<targetName>Kenyan shilling</targetName>
+		<exchangeRate>34.30490719</exchangeRate>
+		<inverseRate>0.02915035</inverseRate>
+		<inverseDescription>1 Kenyan shilling = 0.02915035 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 23.21054479 KGS</title>
+		<link>http://www.floatrates.com/pln/kgs/</link>
+		<description>1 Polish Zloty = 23.21054479 Kyrgyzstan Som</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>23.21054479</exchangeRate>
+		<inverseRate>0.04308387</inverseRate>
+		<inverseDescription>1 Kyrgyzstan Som = 0.04308387 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1063.34005509 KHR</title>
+		<link>http://www.floatrates.com/pln/khr/</link>
+		<description>1 Polish Zloty = 1063.34005509 Cambodian riel</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KHR</targetCurrency>
+		<targetName>Cambodian riel</targetName>
+		<exchangeRate>1063.34005509</exchangeRate>
+		<inverseRate>0.00094043</inverseRate>
+		<inverseDescription>1 Cambodian riel = 0.00094043 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 116.04664998 KMF</title>
+		<link>http://www.floatrates.com/pln/kmf/</link>
+		<description>1 Polish Zloty = 116.04664998 	Comoro franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KMF</targetCurrency>
+		<targetName>	Comoro franc</targetName>
+		<exchangeRate>116.04664998</exchangeRate>
+		<inverseRate>0.00861722</inverseRate>
+		<inverseDescription>1 	Comoro franc = 0.00861722 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.08142669 KWD</title>
+		<link>http://www.floatrates.com/pln/kwd/</link>
+		<description>1 Polish Zloty = 0.08142669 Kuwaiti Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.08142669</exchangeRate>
+		<inverseRate>12.28098609</inverseRate>
+		<inverseDescription>1 Kuwaiti Dinar = 12.28098609 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 5421.99828441 LAK</title>
+		<link>http://www.floatrates.com/pln/lak/</link>
+		<description>1 Polish Zloty = 5421.99828441 Lao kip</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>LAK</targetCurrency>
+		<targetName>Lao kip</targetName>
+		<exchangeRate>5421.99828441</exchangeRate>
+		<inverseRate>0.00018443</inverseRate>
+		<inverseDescription>1 Lao kip = 0.00018443 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 79.37615839 LKR</title>
+		<link>http://www.floatrates.com/pln/lkr/</link>
+		<description>1 Polish Zloty = 79.37615839 Sri Lanka Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>79.37615839</exchangeRate>
+		<inverseRate>0.01259824</inverseRate>
+		<inverseDescription>1 Sri Lanka Rupee = 0.01259824 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 52.98216512 LRD</title>
+		<link>http://www.floatrates.com/pln/lrd/</link>
+		<description>1 Polish Zloty = 52.98216512 Liberian dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>LRD</targetCurrency>
+		<targetName>Liberian dollar</targetName>
+		<exchangeRate>52.98216512</exchangeRate>
+		<inverseRate>0.01887428</inverseRate>
+		<inverseDescription>1 Liberian dollar = 0.01887428 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.83170199 LSL</title>
+		<link>http://www.floatrates.com/pln/lsl/</link>
+		<description>1 Polish Zloty = 4.83170199 Lesotho loti</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>LSL</targetCurrency>
+		<targetName>Lesotho loti</targetName>
+		<exchangeRate>4.83170199</exchangeRate>
+		<inverseRate>0.20696641</inverseRate>
+		<inverseDescription>1 Lesotho loti = 0.20696641 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.45263604 LYD</title>
+		<link>http://www.floatrates.com/pln/lyd/</link>
+		<description>1 Polish Zloty = 1.45263604 Libyan Dinar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>1.45263604</exchangeRate>
+		<inverseRate>0.68840368</inverseRate>
+		<inverseDescription>1 Libyan Dinar = 0.68840368 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.45836884 MAD</title>
+		<link>http://www.floatrates.com/pln/mad/</link>
+		<description>1 Polish Zloty = 2.45836884 Moroccan Dirham</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>2.45836884</exchangeRate>
+		<inverseRate>0.40677379</inverseRate>
+		<inverseDescription>1 Moroccan Dirham = 0.40677379 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1184.29831230 MGA</title>
+		<link>http://www.floatrates.com/pln/mga/</link>
+		<description>1 Polish Zloty = 1184.29831230 Malagasy ariary</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MGA</targetCurrency>
+		<targetName>Malagasy ariary</targetName>
+		<exchangeRate>1184.29831230</exchangeRate>
+		<inverseRate>0.00084438</inverseRate>
+		<inverseDescription>1 Malagasy ariary = 0.00084438 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 14.52164276 MKD</title>
+		<link>http://www.floatrates.com/pln/mkd/</link>
+		<description>1 Polish Zloty = 14.52164276 Macedonian denar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MKD</targetCurrency>
+		<targetName>Macedonian denar</targetName>
+		<exchangeRate>14.52164276</exchangeRate>
+		<inverseRate>0.06886273</inverseRate>
+		<inverseDescription>1 Macedonian denar = 0.06886273 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 557.36708197 MMK</title>
+		<link>http://www.floatrates.com/pln/mmk/</link>
+		<description>1 Polish Zloty = 557.36708197 Myanma Kyat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MMK</targetCurrency>
+		<targetName>Myanma Kyat</targetName>
+		<exchangeRate>557.36708197</exchangeRate>
+		<inverseRate>0.00179415</inverseRate>
+		<inverseDescription>1 Myanma Kyat = 0.00179415 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 948.29537558 MNT</title>
+		<link>http://www.floatrates.com/pln/mnt/</link>
+		<description>1 Polish Zloty = 948.29537558 Mongolian togrog</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MNT</targetCurrency>
+		<targetName>Mongolian togrog</targetName>
+		<exchangeRate>948.29537558</exchangeRate>
+		<inverseRate>0.00105452</inverseRate>
+		<inverseDescription>1 Mongolian togrog = 0.00105452 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.12636403 MOP</title>
+		<link>http://www.floatrates.com/pln/mop/</link>
+		<description>1 Polish Zloty = 2.12636403 Macanese pataca</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MOP</targetCurrency>
+		<targetName>Macanese pataca</targetName>
+		<exchangeRate>2.12636403</exchangeRate>
+		<inverseRate>0.47028636</inverseRate>
+		<inverseDescription>1 Macanese pataca = 0.47028636 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 10.52626266 MRU</title>
+		<link>http://www.floatrates.com/pln/mru/</link>
+		<description>1 Polish Zloty = 10.52626266 Mauritanian ouguiya</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MRU</targetCurrency>
+		<targetName>Mauritanian ouguiya</targetName>
+		<exchangeRate>10.52626266</exchangeRate>
+		<inverseRate>0.09500048</inverseRate>
+		<inverseDescription>1 Mauritanian ouguiya = 0.09500048 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 12.09148548 MUR</title>
+		<link>http://www.floatrates.com/pln/mur/</link>
+		<description>1 Polish Zloty = 12.09148548 Mauritian Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>12.09148548</exchangeRate>
+		<inverseRate>0.08270282</inverseRate>
+		<inverseDescription>1 Mauritian Rupee = 0.08270282 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.09270527 MVR</title>
+		<link>http://www.floatrates.com/pln/mvr/</link>
+		<description>1 Polish Zloty = 4.09270527 Maldivian rufiyaa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MVR</targetCurrency>
+		<targetName>Maldivian rufiyaa</targetName>
+		<exchangeRate>4.09270527</exchangeRate>
+		<inverseRate>0.24433716</inverseRate>
+		<inverseDescription>1 Maldivian rufiyaa = 0.24433716 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 460.10087678 MWK</title>
+		<link>http://www.floatrates.com/pln/mwk/</link>
+		<description>1 Polish Zloty = 460.10087678 Malawian kwacha</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MWK</targetCurrency>
+		<targetName>Malawian kwacha</targetName>
+		<exchangeRate>460.10087678</exchangeRate>
+		<inverseRate>0.00217344</inverseRate>
+		<inverseDescription>1 Malawian kwacha = 0.00217344 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 16.95288509 MZN</title>
+		<link>http://www.floatrates.com/pln/mzn/</link>
+		<description>1 Polish Zloty = 16.95288509 Mozambican metical</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>MZN</targetCurrency>
+		<targetName>Mozambican metical</targetName>
+		<exchangeRate>16.95288509</exchangeRate>
+		<inverseRate>0.05898701</inverseRate>
+		<inverseDescription>1 Mozambican metical = 0.05898701 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.83170199 NAD</title>
+		<link>http://www.floatrates.com/pln/nad/</link>
+		<description>1 Polish Zloty = 4.83170199 Namibian dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>NAD</targetCurrency>
+		<targetName>Namibian dollar</targetName>
+		<exchangeRate>4.83170199</exchangeRate>
+		<inverseRate>0.20696641</inverseRate>
+		<inverseDescription>1 Namibian dollar = 0.20696641 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 427.22282366 NGN</title>
+		<link>http://www.floatrates.com/pln/ngn/</link>
+		<description>1 Polish Zloty = 427.22282366 Nigerian Naira</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>427.22282366</exchangeRate>
+		<inverseRate>0.00234070</inverseRate>
+		<inverseDescription>1 Nigerian Naira = 0.00234070 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 9.76738104 NIO</title>
+		<link>http://www.floatrates.com/pln/nio/</link>
+		<description>1 Polish Zloty = 9.76738104 Nicaraguan Córdoba</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>9.76738104</exchangeRate>
+		<inverseRate>0.10238159</inverseRate>
+		<inverseDescription>1 Nicaraguan Córdoba = 0.10238159 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 36.26006760 NPR</title>
+		<link>http://www.floatrates.com/pln/npr/</link>
+		<description>1 Polish Zloty = 36.26006760 Nepalese Rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>36.26006760</exchangeRate>
+		<inverseRate>0.02757855</inverseRate>
+		<inverseDescription>1 Nepalese Rupee = 0.02757855 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.10204283 OMR</title>
+		<link>http://www.floatrates.com/pln/omr/</link>
+		<description>1 Polish Zloty = 0.10204283 Omani Rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.10204283</exchangeRate>
+		<inverseRate>9.79980675</inverseRate>
+		<inverseDescription>1 Omani Rial = 9.79980675 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.26541514 PAB</title>
+		<link>http://www.floatrates.com/pln/pab/</link>
+		<description>1 Polish Zloty = 0.26541514 Panamanian Balboa</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>PAB</targetCurrency>
+		<targetName>Panamanian Balboa</targetName>
+		<exchangeRate>0.26541514</exchangeRate>
+		<inverseRate>3.76768254</inverseRate>
+		<inverseDescription>1 Panamanian Balboa = 3.76768254 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.96597770 PEN</title>
+		<link>http://www.floatrates.com/pln/pen/</link>
+		<description>1 Polish Zloty = 0.96597770 Peruvian Nuevo Sol</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.96597770</exchangeRate>
+		<inverseRate>1.03522059</inverseRate>
+		<inverseDescription>1 Peruvian Nuevo Sol = 1.03522059 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.09178278 PGK</title>
+		<link>http://www.floatrates.com/pln/pgk/</link>
+		<description>1 Polish Zloty = 1.09178278 Papua New Guinean kina</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>1.09178278</exchangeRate>
+		<inverseRate>0.91593311</inverseRate>
+		<inverseDescription>1 Papua New Guinean kina = 0.91593311 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2124.02839828 PYG</title>
+		<link>http://www.floatrates.com/pln/pyg/</link>
+		<description>1 Polish Zloty = 2124.02839828 Paraguayan Guaraní</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>2124.02839828</exchangeRate>
+		<inverseRate>0.00047080</inverseRate>
+		<inverseDescription>1 Paraguayan Guaraní = 0.00047080 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.96610451 QAR</title>
+		<link>http://www.floatrates.com/pln/qar/</link>
+		<description>1 Polish Zloty = 0.96610451 Qatari Rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.96610451</exchangeRate>
+		<inverseRate>1.03508470</inverseRate>
+		<inverseDescription>1 Qatari Rial = 1.03508470 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 376.37136280 RWF</title>
+		<link>http://www.floatrates.com/pln/rwf/</link>
+		<description>1 Polish Zloty = 376.37136280 Rwandan franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>RWF</targetCurrency>
+		<targetName>Rwandan franc</targetName>
+		<exchangeRate>376.37136280</exchangeRate>
+		<inverseRate>0.00265695</inverseRate>
+		<inverseDescription>1 Rwandan franc = 0.00265695 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.21734396 SBD</title>
+		<link>http://www.floatrates.com/pln/sbd/</link>
+		<description>1 Polish Zloty = 2.21734396 Solomon Islands dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SBD</targetCurrency>
+		<targetName>Solomon Islands dollar</targetName>
+		<exchangeRate>2.21734396</exchangeRate>
+		<inverseRate>0.45099002</inverseRate>
+		<inverseDescription>1 Solomon Islands dollar = 0.45099002 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 3.91909565 SCR</title>
+		<link>http://www.floatrates.com/pln/scr/</link>
+		<description>1 Polish Zloty = 3.91909565 Seychelles rupee</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SCR</targetCurrency>
+		<targetName>Seychelles rupee</targetName>
+		<exchangeRate>3.91909565</exchangeRate>
+		<inverseRate>0.25516091</inverseRate>
+		<inverseDescription>1 Seychelles rupee = 0.25516091 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 159.37290040 SDG</title>
+		<link>http://www.floatrates.com/pln/sdg/</link>
+		<description>1 Polish Zloty = 159.37290040 Sudanese pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SDG</targetCurrency>
+		<targetName>Sudanese pound</targetName>
+		<exchangeRate>159.37290040</exchangeRate>
+		<inverseRate>0.00627459</inverseRate>
+		<inverseDescription>1 Sudanese pound = 0.00627459 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 151.68475404 SOS</title>
+		<link>http://www.floatrates.com/pln/sos/</link>
+		<description>1 Polish Zloty = 151.68475404 Somali shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SOS</targetCurrency>
+		<targetName>Somali shilling</targetName>
+		<exchangeRate>151.68475404</exchangeRate>
+		<inverseRate>0.00659262</inverseRate>
+		<inverseDescription>1 Somali shilling = 0.00659262 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 9.72567699 SRD</title>
+		<link>http://www.floatrates.com/pln/srd/</link>
+		<description>1 Polish Zloty = 9.72567699 Surinamese dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SRD</targetCurrency>
+		<targetName>Surinamese dollar</targetName>
+		<exchangeRate>9.72567699</exchangeRate>
+		<inverseRate>0.10282061</inverseRate>
+		<inverseDescription>1 Surinamese dollar = 0.10282061 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1194.13523154 SSP</title>
+		<link>http://www.floatrates.com/pln/ssp/</link>
+		<description>1 Polish Zloty = 1194.13523154 South Sudanese pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SSP</targetCurrency>
+		<targetName>South Sudanese pound</targetName>
+		<exchangeRate>1194.13523154</exchangeRate>
+		<inverseRate>0.00083743</inverseRate>
+		<inverseDescription>1 South Sudanese pound = 0.00083743 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 5.77912460 STN</title>
+		<link>http://www.floatrates.com/pln/stn/</link>
+		<description>1 Polish Zloty = 5.77912460 São Tomé and Príncipe Dobra</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>STN</targetCurrency>
+		<targetName>São Tomé and Príncipe Dobra</targetName>
+		<exchangeRate>5.77912460</exchangeRate>
+		<inverseRate>0.17303659</inverseRate>
+		<inverseDescription>1 São Tomé and Príncipe Dobra = 0.17303659 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.32238250 SVC</title>
+		<link>http://www.floatrates.com/pln/svc/</link>
+		<description>1 Polish Zloty = 2.32238250 Salvadoran colon</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SVC</targetCurrency>
+		<targetName>Salvadoran colon</targetName>
+		<exchangeRate>2.32238250</exchangeRate>
+		<inverseRate>0.43059229</inverseRate>
+		<inverseDescription>1 Salvadoran colon = 0.43059229 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 4.83170199 SZL</title>
+		<link>http://www.floatrates.com/pln/szl/</link>
+		<description>1 Polish Zloty = 4.83170199 Swazi lilangeni</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SZL</targetCurrency>
+		<targetName>Swazi lilangeni</targetName>
+		<exchangeRate>4.83170199</exchangeRate>
+		<inverseRate>0.20696641</inverseRate>
+		<inverseDescription>1 Swazi lilangeni = 0.20696641 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 2.76400197 TJS</title>
+		<link>http://www.floatrates.com/pln/tjs/</link>
+		<description>1 Polish Zloty = 2.76400197 Tajikistan Ruble</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>2.76400197</exchangeRate>
+		<inverseRate>0.36179424</inverseRate>
+		<inverseDescription>1 Tajikistan Ruble = 0.36179424 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.92895300 TMT</title>
+		<link>http://www.floatrates.com/pln/tmt/</link>
+		<description>1 Polish Zloty = 0.92895300 New Turkmenistan Manat</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>0.92895300</exchangeRate>
+		<inverseRate>1.07648073</inverseRate>
+		<inverseDescription>1 New Turkmenistan Manat = 1.07648073 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.62716475 TOP</title>
+		<link>http://www.floatrates.com/pln/top/</link>
+		<description>1 Polish Zloty = 0.62716475 Tongan paʻanga</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TOP</targetCurrency>
+		<targetName>Tongan paʻanga</targetName>
+		<exchangeRate>0.62716475</exchangeRate>
+		<inverseRate>1.59447736</inverseRate>
+		<inverseDescription>1 Tongan paʻanga = 1.59447736 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 1.80053934 TTD</title>
+		<link>http://www.floatrates.com/pln/ttd/</link>
+		<description>1 Polish Zloty = 1.80053934 Trinidad Tobago Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.80053934</exchangeRate>
+		<inverseRate>0.55538914</inverseRate>
+		<inverseDescription>1 Trinidad Tobago Dollar = 0.55538914 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 716.80135904 TZS</title>
+		<link>http://www.floatrates.com/pln/tzs/</link>
+		<description>1 Polish Zloty = 716.80135904 Tanzanian shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>TZS</targetCurrency>
+		<targetName>Tanzanian shilling</targetName>
+		<exchangeRate>716.80135904</exchangeRate>
+		<inverseRate>0.00139509</inverseRate>
+		<inverseDescription>1 Tanzanian shilling = 0.00139509 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 971.41659161 UGX</title>
+		<link>http://www.floatrates.com/pln/ugx/</link>
+		<description>1 Polish Zloty = 971.41659161 Ugandan shilling</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>UGX</targetCurrency>
+		<targetName>Ugandan shilling</targetName>
+		<exchangeRate>971.41659161</exchangeRate>
+		<inverseRate>0.00102942</inverseRate>
+		<inverseDescription>1 Ugandan shilling = 0.00102942 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 11.09415535 UYU</title>
+		<link>http://www.floatrates.com/pln/uyu/</link>
+		<description>1 Polish Zloty = 11.09415535 Uruguayan Peso</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>11.09415535</exchangeRate>
+		<inverseRate>0.09013755</inverseRate>
+		<inverseDescription>1 Uruguayan Peso = 0.09013755 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 3420.01281241 UZS</title>
+		<link>http://www.floatrates.com/pln/uzs/</link>
+		<description>1 Polish Zloty = 3420.01281241 Uzbekistan Sum</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>3420.01281241</exchangeRate>
+		<inverseRate>0.00029240</inverseRate>
+		<inverseDescription>1 Uzbekistan Sum = 0.00029240 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 24.60784984 VES</title>
+		<link>http://www.floatrates.com/pln/ves/</link>
+		<description>1 Polish Zloty = 24.60784984 Venezuelan Bolivar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>VES</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>24.60784984</exchangeRate>
+		<inverseRate>0.04063744</inverseRate>
+		<inverseDescription>1 Venezuelan Bolivar = 0.04063744 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 32.01163261 VUV</title>
+		<link>http://www.floatrates.com/pln/vuv/</link>
+		<description>1 Polish Zloty = 32.01163261 Vanuatu vatu</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>VUV</targetCurrency>
+		<targetName>Vanuatu vatu</targetName>
+		<exchangeRate>32.01163261</exchangeRate>
+		<inverseRate>0.03123864</inverseRate>
+		<inverseDescription>1 Vanuatu vatu = 0.03123864 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.73503388 WST</title>
+		<link>http://www.floatrates.com/pln/wst/</link>
+		<description>1 Polish Zloty = 0.73503388 Samoan tala</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>WST</targetCurrency>
+		<targetName>Samoan tala</targetName>
+		<exchangeRate>0.73503388</exchangeRate>
+		<inverseRate>1.36048150</inverseRate>
+		<inverseDescription>1 Samoan tala = 1.36048150 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.71661145 XCD</title>
+		<link>http://www.floatrates.com/pln/xcd/</link>
+		<description>1 Polish Zloty = 0.71661145 East Caribbean Dollar</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>XCD</targetCurrency>
+		<targetName>East Caribbean Dollar</targetName>
+		<exchangeRate>0.71661145</exchangeRate>
+		<inverseRate>1.39545635</inverseRate>
+		<inverseDescription>1 East Caribbean Dollar = 1.39545635 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 0.47509122 XCG</title>
+		<link>http://www.floatrates.com/pln/xcg/</link>
+		<description>1 Polish Zloty = 0.47509122 Caribbean guilder</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>XCG</targetCurrency>
+		<targetName>Caribbean guilder</targetName>
+		<exchangeRate>0.47509122</exchangeRate>
+		<inverseRate>2.10485894</inverseRate>
+		<inverseDescription>1 Caribbean guilder = 2.10485894 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 28.14827602 XPF</title>
+		<link>http://www.floatrates.com/pln/xpf/</link>
+		<description>1 Polish Zloty = 28.14827602 CFP Franc</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>XPF</targetCurrency>
+		<targetName>CFP Franc</targetName>
+		<exchangeRate>28.14827602</exchangeRate>
+		<inverseRate>0.03552615</inverseRate>
+		<inverseDescription>1 CFP Franc = 0.03552615 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 64.87716036 YER</title>
+		<link>http://www.floatrates.com/pln/yer/</link>
+		<description>1 Polish Zloty = 64.87716036 Yemeni rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>YER</targetCurrency>
+		<targetName>Yemeni rial</targetName>
+		<exchangeRate>64.87716036</exchangeRate>
+		<inverseRate>0.01541374</inverseRate>
+		<inverseDescription>1 Yemeni rial = 0.01541374 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 7.06909597 ZMW</title>
+		<link>http://www.floatrates.com/pln/zmw/</link>
+		<description>1 Polish Zloty = 7.06909597 Zambian kwacha</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>ZMW</targetCurrency>
+		<targetName>Zambian kwacha</targetName>
+		<exchangeRate>7.06909597</exchangeRate>
+		<inverseRate>0.14146080</inverseRate>
+		<inverseDescription>1 Zambian kwacha = 0.14146080 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 11100.84088968 IRR</title>
+		<link>http://www.floatrates.com/pln/irr/</link>
+		<description>1 Polish Zloty = 11100.84088968 Iranian rial</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>IRR</targetCurrency>
+		<targetName>Iranian rial</targetName>
+		<exchangeRate>11100.84088968</exchangeRate>
+		<inverseRate>0.00009008</inverseRate>
+		<inverseDescription>1 Iranian rial = 0.00009008 Polish Zloty</inverseDescription>
+	</item>
+	<item>
+		<title>1 PLN = 3457.00927360 SYP</title>
+		<link>http://www.floatrates.com/pln/syp/</link>
+		<description>1 Polish Zloty = 3457.00927360 Syrian pound</description>
+		<pubDate>Fri, 9 May 2025 23:59:00 GMT</pubDate>
+		<baseCurrency>PLN</baseCurrency>
+		<baseName>Polish Zloty</baseName>
+		<targetCurrency>SYP</targetCurrency>
+		<targetName>Syrian pound</targetName>
+		<exchangeRate>3457.00927360</exchangeRate>
+		<inverseRate>0.00028927</inverseRate>
+		<inverseDescription>1 Syrian pound = 0.00028927 Polish Zloty</inverseDescription>
+	</item>
+</channel>

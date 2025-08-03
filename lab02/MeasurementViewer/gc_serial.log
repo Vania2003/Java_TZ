@@ -1,0 +1,24 @@
+[2025-03-15T22:47:20.210+0100][info][gc,init] CardTable entry size: 512
+[2025-03-15T22:47:20.210+0100][info][gc     ] Using Serial
+[2025-03-15T22:47:20.210+0100][info][gc,init] Version: 21.0.6+8-LTS-188 (release)
+[2025-03-15T22:47:20.210+0100][info][gc,init] CPUs: 8 total, 8 available
+[2025-03-15T22:47:20.210+0100][info][gc,init] Memory: 16149M
+[2025-03-15T22:47:20.210+0100][info][gc,init] Large Page Support: Disabled
+[2025-03-15T22:47:20.210+0100][info][gc,init] NUMA Support: Disabled
+[2025-03-15T22:47:20.210+0100][info][gc,init] Compressed Oops: Enabled (32-bit)
+[2025-03-15T22:47:20.210+0100][info][gc,init] Heap Min Capacity: 512M
+[2025-03-15T22:47:20.210+0100][info][gc,init] Heap Initial Capacity: 512M
+[2025-03-15T22:47:20.210+0100][info][gc,init] Heap Max Capacity: 1G
+[2025-03-15T22:47:20.210+0100][info][gc,init] Pre-touch: Disabled
+[2025-03-15T22:47:20.210+0100][info][gc,metaspace] CDS archive(s) mapped at: [0x0000021a18000000-0x0000021a18c90000-0x0000021a18c90000), size 13172736, SharedBaseAddress: 0x0000021a18000000, ArchiveRelocationMode: 1.
+[2025-03-15T22:47:20.210+0100][info][gc,metaspace] Compressed class space mapped at: 0x0000021a19000000-0x0000021a59000000, reserved size: 1073741824
+[2025-03-15T22:47:20.210+0100][info][gc,metaspace] Narrow klass base: 0x0000021a18000000, Narrow klass shift: 0, Narrow klass range: 0x100000000
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit] Heap
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]  def new generation   total 157248K, used 67008K [0x00000000c0000000, 0x00000000caaa0000, 0x00000000d5550000)
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]   eden space 139776K,  47% used [0x00000000c0000000, 0x00000000c4170110, 0x00000000c8880000)
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]   from space 17472K,   0% used [0x00000000c8880000, 0x00000000c8880000, 0x00000000c9990000)
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]   to   space 17472K,   0% used [0x00000000c9990000, 0x00000000c9990000, 0x00000000caaa0000)
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]  tenured generation   total 349568K, used 0K [0x00000000d5550000, 0x00000000eaab0000, 0x0000000100000000)
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]    the space 349568K,   0% used [0x00000000d5550000, 0x00000000d5550000, 0x00000000d5550200, 0x00000000eaab0000)
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]  Metaspace       used 12736K, committed 12992K, reserved 1114112K
+[2025-03-15T22:47:33.141+0100][info][gc,heap,exit]   class space    used 1348K, committed 1472K, reserved 1048576K

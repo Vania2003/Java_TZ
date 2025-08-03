@@ -1,0 +1,2 @@
+JAVA_VERSION="21.0.6"
+MODULES="java.base archiver.library java.datatransfer java.xml java.prefs java.desktop javafx.base jdk.unsupported javafx.graphics javafx.controls java.scripting javafx.fxml archiver.app java.net.http javafx.media jdk.unsupported.desktop javafx.swing jdk.jsobject jdk.xml.dom javafx.web"

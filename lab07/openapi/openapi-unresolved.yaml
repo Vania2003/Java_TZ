@@ -1,0 +1,199 @@
+openapi: 3.0.0
+info:
+  title: Internet Provider API
+  description: REST API do obsługi klientów, subskrypcji i płatności dostawcy Internetu
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:8080
+
+paths:
+  /clients:
+    post:
+      summary: Dodaj nowego klienta
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Client'
+      responses:
+        '201':
+          description: Klient został utworzony
+    get:
+      summary: Pobierz listę wszystkich klientów
+      responses:
+        '200':
+          description: Lista klientów
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Client'
+
+  /clients/{clientId}:
+    get:
+      summary: Pobierz klienta po ID
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Dane klienta
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Client'
+        '404':
+          description: Klient nie znaleziony
+    put:
+      summary: Aktualizuj dane klienta
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Client'
+      responses:
+        '200':
+          description: Zaktualizowano dane klienta
+    delete:
+      summary: Usuń klienta
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '204':
+          description: Klient usunięty
+
+  /clients/{clientId}/subscriptions:
+    post:
+      summary: Dodaj subskrypcję klientowi
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Subscription'
+      responses:
+        '201':
+          description: Subskrypcja została dodana
+    get:
+      summary: Pobierz subskrypcje klienta
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Lista subskrypcji
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Subscription'
+
+  /clients/{clientId}/payments:
+    get:
+      summary: Pobierz płatności klienta
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: Lista płatności
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Payment'
+    post:
+      summary: Dodaj płatność klientowi
+      parameters:
+        - name: clientId
+          in: path
+          required: true
+          schema:
+            type: integer
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Payment'
+      responses:
+        '201':
+          description: Płatność została zarejestrowana
+
+components:
+  schemas:
+    Client:
+      type: object
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        email:
+          type: string
+        address:
+          type: string
+
+    Subscription:
+      type: object
+      properties:
+        id:
+          type: integer
+        serviceType:
+          type: string
+          example: "Internet Fiber 600Mb/s"
+        startDate:
+          type: string
+          format: date
+        endDate:
+          type: string
+          format: date
+
+    Payment:
+      type: object
+      properties:
+        id:
+          type: integer
+        amount:
+          type: number
+          format: float
+        paymentDate:
+          type: string
+          format: date
+        status:
+          type: string
+          enum:
+            - PAID
+            - PENDING
+            - FAILED

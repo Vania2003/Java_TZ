@@ -1,0 +1,233 @@
+openapi: 3.0.0
+info:
+  description: "REST API do obsługi klientów, subskrypcji i płatności dostawcy Internetu"
+  title: Internet Provider API
+  version: 1.0.0
+servers:
+- url: http://localhost:8080
+paths:
+  /clients:
+    get:
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/Client'
+                type: array
+          description: Lista klientów
+      summary: Pobierz listę wszystkich klientów
+      x-accepts: application/json
+    post:
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Client'
+        required: true
+      responses:
+        "201":
+          description: Klient został utworzony
+      summary: Dodaj nowego klienta
+      x-content-type: application/json
+      x-accepts: application/json
+  /clients/{clientId}:
+    delete:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      responses:
+        "204":
+          description: Klient usunięty
+      summary: Usuń klienta
+      x-accepts: application/json
+    get:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Client'
+          description: Dane klienta
+        "404":
+          description: Klient nie znaleziony
+      summary: Pobierz klienta po ID
+      x-accepts: application/json
+    put:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Client'
+        required: true
+      responses:
+        "200":
+          description: Zaktualizowano dane klienta
+      summary: Aktualizuj dane klienta
+      x-content-type: application/json
+      x-accepts: application/json
+  /clients/{clientId}/subscriptions:
+    get:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/Subscription'
+                type: array
+          description: Lista subskrypcji
+      summary: Pobierz subskrypcje klienta
+      x-accepts: application/json
+    post:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Subscription'
+        required: true
+      responses:
+        "201":
+          description: Subskrypcja została dodana
+      summary: Dodaj subskrypcję klientowi
+      x-content-type: application/json
+      x-accepts: application/json
+  /clients/{clientId}/payments:
+    get:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                items:
+                  $ref: '#/components/schemas/Payment'
+                type: array
+          description: Lista płatności
+      summary: Pobierz płatności klienta
+      x-accepts: application/json
+    post:
+      parameters:
+      - explode: false
+        in: path
+        name: clientId
+        required: true
+        schema:
+          type: integer
+        style: simple
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Payment'
+        required: true
+      responses:
+        "201":
+          description: Płatność została zarejestrowana
+      summary: Dodaj płatność klientowi
+      x-content-type: application/json
+      x-accepts: application/json
+components:
+  schemas:
+    Client:
+      example:
+        address: address
+        name: name
+        id: 0
+        email: email
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+        email:
+          type: string
+        address:
+          type: string
+      type: object
+    Subscription:
+      example:
+        serviceType: Internet Fiber 600Mb/s
+        endDate: 2000-01-23
+        id: 0
+        startDate: 2000-01-23
+      properties:
+        id:
+          type: integer
+        serviceType:
+          example: Internet Fiber 600Mb/s
+          type: string
+        startDate:
+          format: date
+          type: string
+        endDate:
+          format: date
+          type: string
+      type: object
+    Payment:
+      example:
+        amount: 6.0274563
+        id: 0
+        paymentDate: 2000-01-23
+        status: PAID
+      properties:
+        id:
+          type: integer
+        amount:
+          format: float
+          type: number
+        paymentDate:
+          format: date
+          type: string
+        status:
+          enum:
+          - PAID
+          - PENDING
+          - FAILED
+          type: string
+      type: object
